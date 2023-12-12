@@ -1,0 +1,284 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.adaPink {
+  color: #e4407b !important;
+}
+
+.adaPinkBg {
+  background-color: #e4407b !important;
+}
+
+.dimmed {
+  /* z-index: 12; */
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+.selectionItemContext {
+  visibility: hidden;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  display: block;
+}
+
+.tooltip {
+  opacity: 1 !important;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn {
+  padding: 5px;
+}
+
+.btn-small {
+  font-size: x-small;
+}
+
+.btn-white {
+  background-color: white;
+  border: 1px solid #000000;
+}
+.btn-white:hover {
+  background-color: #eeeeee;
+  border: 1px solid #000000;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.introduction {
+  animation: fadeInAnimation ease 12s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  /* color: black; */
+  /* paint-order: stroke fill; */
+  /* -webkit-text-fill-color: black; */
+  /* -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white; */
+}
+
+@keyframes fadeInAnimation {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.z-20 {
+  z-index: 20;
+}
+
+.z-30 {
+  z-index: 30;
+}
+
+.z-40 {
+  z-index: 40;
+}
+
+.z-50 {
+  z-index: 50;
+}
+
+.z-inherit {
+  z-index: inherit;
+}
+
+#fabi {
+  padding-top: 3rem;
+}
+
+.sunburst-helptext {
+  bottom: 10%;
+
+  @media only screen and (min-width: 1440px) {
+    bottom: 20%;
+  }
+}
+
+.tooltip {
+  opacity: 1 !important;
+}
+
+.top-25 {
+  top: 25%;
+}
+
+.top-75 {
+  top: 75%;
+}
+.infoContainer {
+  /* width: 100px;
+  height: 100px; */
+  max-width: 500px;
+  font-size: smaller;
+  padding: 2rem;
+  background-color: white;
+  border: 1px solid #000000;
+  color: #000000;
+  border-radius: 5px;
+  top: 5%;
+  left: 5%;
+  position: absolute;
+  /* z-index: 9999; */
+  /* display: none; */
+  overflow: hidden;
+}
+
+.textShadow {
+  text-shadow: 0 0 50px white;
+}
+
+.imageContainer {
+  max-width: 500px;
+  overflow-x: scroll;
+}
+
+.imageContainer img {
+  max-width: 100px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.KeywordExpandableList > * {
+  font-size: smaller !important;
+}
+
+.renameInput {
+  border: solid black 1px;
+  background-color: #ffffff;
+  max-height: 1.5rem;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.renameSubmitButton {
+  /* margin-top: 3px; */
+  border: solid black 1px;
+  background-color: #ffffff;
+  height: 1.5rem;
+  border-radius: 5px;
+  margin-left: 0.25rem;
+}
+
+/* .renameForm {
+} */
+
+.collectionItem {
+  width: 240px;
+  /* max-height: 500px; */
+  overflow-x: hidden;
+  overflow-y: scroll;
+  line-height: 1;
+}
+
+.collectionsGroup {
+  max-width: 80%;
+  overflow-x: scroll;
+  margin-left: 2rem;
+  height: 80%;
+}
+
+.truncate {
+  width: 100px;
+  /* white-space: nowrap; */
+  -webkit-line-clamp: 3;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.thumb {
+  height: 30px;
+  width: 30px;
+}
+
+.dropdownSmall {
+  font-size: xx-small;
+  z-index: 999;
+  overflow: visible;
+}
+
+.filtersItem {
+  width: 240px;
+  max-height: 500px;
+  /* overflow-x: hidden;
+  overflow-y: hidden; */
+  line-height: 1;
+}
+
+#flyingFilters {
+  position: absolute;
+  z-index: 11;
+  left: 0;
+  top: 50%;
+  font-size: 0.75rem;
+  margin: 1rem;
+}
+
+.threeLines {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.filterChainScroll {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.filterChainsScroll {
+  max-height: 60vh;
+  overflow-y: scroll;
+}
+
+.dropdownMenu {
+  min-width: 0 !important;
+}
+
+.filterChains {
+  top: 28%;
+}
+
+.infoView {
+  height: 80%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}

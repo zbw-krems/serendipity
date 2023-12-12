@@ -1,0 +1,62 @@
+A QUICK GUIDE TO SERENDIPITY
+
+Serendipity is a tool to sort, combine and recombine image content from the Archive of Digital Art (ADA). Users can filter the content in the database based on the Thesaurus keywords, which are used for semantic tagging of the artworks. They can also form collections and export them to the image viewer Mnemosyne for closer analysis.
+
+MAIN SCREEN 
+The main screen depicts the main menu and the artworks, which are chosen based on your filter selections. The default mode without filters shows all the artworks in the database. On the left side of the main screen the chosen keywords and filter chains are indicated.
+
+MAIN MENU
+ 	Filters – opens up the filter section
+ 	Collections – opens up your collections
+ 	Info – opens up the info section with “About”, “Quick guide”, and “Impressum”
+
+
+If you hover over any of the images in the main screen you will get additional information on the artworks with the artist name, year of creation, artwork name, description, further images, and the keywords the respective artist chose for this artwork.
+
+Show on ADA – takes you to the entry of the artwork on ADA with the full description and other additional information.
+
+Add to favourites – transfers the artwork to your collections.
+
+
+
+
+
+
+
+
+
+
+
+ 	FILTER SECTION
+
+Here you can select Thesaurus keywords to filter the artworks and create various filter chains.
+
+
+x – close filter menu
+
+List view | Sunburst – here you can choose between a list view of the Thesaurus keywords or a graphic represention as a sunburst diagram. 
+
+Switch the list between an alphabetic and hierarchical view of the Thesaurus.
+Add keywords to the respective filter chain(s). It is also possible to create a new filter chain here.
+
+
+In the sunburst diagram you can left click to enter the different categories. With right click you can add a keyword to the respective filter chain(s) and create new filter chains.
+
+
+    Allows you to add a new filter chain
+Delete the whole filter chain
+ 	Name your filter chain individually
+ 	Mute this filter chain in the main screen. The filter chain    will not be displayed. Allows you to quickly switch and compare filter chains. 
+Remove keywords in the filter chain or move it to another filter chain. Here you can also add all the terms of the Thesaurus that are associatively connected to a certain keyword. It is a quick way to find connections and thematically close artworks.
+Note: If you add more than one keyword in one filterchain it basically functions as an “and” condition. Artworks must have all the keywords that are selected in one filterchain. If you want the condition to be “or” then you have to create separate filter chains. Example: If you create a filter chain with the terms “media” and “access” you will get artworks that are tagged with both keywords. If you create two filter chains, one with “media” and one with “access”, then you get in one chain all the artworks tagged with “media” and in the other all artworks tagged with “access”. In the latter case the artworks with both terms are of course a subset of the larger set.
+
+COLLECTIONS MENU
+
+In this menu you can form an manage your collections. Once you added a desired artwork to your favourites you can start forming your collections.
+
+The favourite section is default and acts as a pool for your chosen artworks. From this pool you can form your collections.
+   Add a collection
+Name the collection
+         Delete Collection
+Add artworks to collections, move to another collection, delete from collection/favourites
+XYZ sign  Export collection to the Mnemosyne viewer for further    analysis

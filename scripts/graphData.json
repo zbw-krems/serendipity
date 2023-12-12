@@ -1,0 +1,3579 @@
+{
+    "nodes": [
+        {
+            "uid": 86,
+            "title": "Telematic Séance",
+            "url": "http://creativetechnology.salford.ac.uk/paulsermon/seance/",
+            "comment": "The technology involved in \"The Telematic Séance\" is much the same as \"Telematic Dreaming\", however the situation is somewhat different. During the production of \"Telematic Dreaming\" I discovered many aspects of user interaction that I have brought attention to in this new proposal for \"The Telematic Séance\". From the following technical description and diagrams these aspects will become evident. I will be situated at the Helsinki Telegalleria, sat at a round séance table, covered with a chroma key blue table cloth. A video camera will be situated directly above me, looking down at the table below. This video camera will have a remote zoom control installed on it, and will be controlled by a hand set that I will be holding. A similar system is used on the existing Rollabout units. The video image of me, sat at a chroma key blue séance table, will be sent to a chroma key video mixer, and combined with images from a prerecorded VHS videotape. The chroma key system will replace the blue area with the prerecorded video image. The combined image is then sent through an ISDN2 line to the OTSO Gallery in Espoo. The video image is received at OTSO, and is fed to a video projector positioned in the ceiling. The video projector projects the live video image down onto another séance table. This séance table is covered with a white table cloth and is surrounded by six chairs. A white cape and mask will be left on the table for a voluntary medium, from the OTSO Gallery audience. A video camera will be situated next to the video projector, receiving a birds-eye image of the table below. The video camera image is sent back through the the ISDN2 line to me at Telegalleria. The video camera image from OTSO is fed to four monitors that surround the séance table in the Telegalleria. This allows me to see myself combined with the medium and the other guests at the OTSO Gallery, from all angles. The OTSO Gallery visitors will be able to sit down at the table and take part in &apos;The Telematic Séance&apos;. ",
+            "year_first": 1993,
+            "year_last": 1993,
+            "artist": {
+                "uid": 30,
+                "first_name": "Paul",
+                "last_name": "Sermon",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1966
+            },
+            "keywords": [
+                {
+                    "uid": 157,
+                    "title": "interfaces"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 168,
+                    "title": "projectors"
+                },
+                {
+                    "uid": 170,
+                    "title": "computer monitors"
+                },
+                {
+                    "uid": 178,
+                    "title": "camera recordings"
+                },
+                {
+                    "uid": 510,
+                    "title": "video (digital)"
+                },
+                {
+                    "uid": 513,
+                    "title": "ISDN"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 222,
+                    "title": "bodies (animal components)"
+                },
+                {
+                    "uid": 156,
+                    "title": "displays"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 470,
+                    "title": "tables"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 115,
+                    "title": "Muu Media Festival 1993",
+                    "year_first": 1993,
+                    "year_last": 1993,
+                    "city": "Helsinki",
+                    "country": "Finland",
+                    "institution": "Otso Gallery"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i136_ser_seance01_a172a15cf5.webp",
+                "fileadmin/_processed_/csm_i137_ser_seance02_b0676e55e7.webp",
+                "fileadmin/_processed_/csm_i138_ser_seance03_a31a0afbc6.webp",
+                "fileadmin/_processed_/csm_i139_ser_seance04_7419d173f6.webp",
+                "fileadmin/_processed_/csm_i140_ser_seance05_9e1757cef8.webp",
+                "fileadmin/_processed_/csm_i141_ser_seance06_860f42aa91.webp",
+                "fileadmin/_processed_/csm_i142_ser_seance07_7a3f63b6c1.webp"
+            ],
+            "index": 37,
+            "x": 144.36060980304873,
+            "y": 170.47014864695095,
+            "z": 78.6899884246806,
+            "vx": 0.42531075376303146,
+            "vy": -0.038639681443014016,
+            "vz": 0.015932232162001448
+        },
+        {
+            "uid": 105,
+            "title": "Televirtual Fruit Machine",
+            "url": null,
+            "comment": "This computer graphic installation is a telematic adaptation of THE FRUIT MACHINE (1991). The work connects remote locations to enable simultaneous imaging and real time interaction to take place between both sites where the work is installed. It introduces the form of an artwork where viewers who are physically separated from each other can share an aesthetic figuration in the televirtual space. \r\n\r\nAt each location the viewer interacts with the computer generated image using a multi-axis interface (joystick), which is on a column in front of a large projection screen. Each viewer sees the result of their own actions on the screen, and also the result of the other user&apos;s actions at the remote location. In front of the viewer there is also a small videophone, which enables the two viewers to see and talk to each other - this amplifies the social dimension that accompanies the visual interactivities. \r\n\r\nThe computer-generated image is a spherical object that is divided along a curved line into two parts. The two operators using their respective joysticks can separately manipulate each part in the televirtual space. The outer surface of this spherical object carries images of various fruit, and the inner surface shows a geographical map of the world. The two users coordinate and control the movement of the image parts so as to bring them together and join the fruits, and when they succeed an outpouring of virtual coins rewards them. \r\n\r\n(A. Hegedüs)",
+            "year_first": 1993,
+            "year_last": 1993,
+            "artist": {
+                "uid": 49,
+                "first_name": "Agnes",
+                "last_name": "Hegedüs",
+                "pseudonym": "Hegedus",
+                "location": null,
+                "birthyear": 1964
+            },
+            "keywords": [
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 242,
+                    "title": "games"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 165,
+                    "title": "virtual reality (VR)"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 219,
+                    "title": "communication"
+                },
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 174,
+                    "title": "MultiMediale 3",
+                    "year_first": 1993,
+                    "year_last": 1993,
+                    "city": "Karlsruhe",
+                    "country": "Germany",
+                    "institution": "ZKM"
+                },
+                {
+                    "uid": 173,
+                    "title": "Intercommunication 93",
+                    "year_first": 1993,
+                    "year_last": 1993,
+                    "city": "Tokyo",
+                    "country": "Japan",
+                    "institution": "ICC (Intercommunication Center)"
+                },
+                {
+                    "uid": 145,
+                    "title": "CeBit &apos;95",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Hannover",
+                    "country": "Germany",
+                    "institution": "CeBit"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i000002525tv_fruit_screen_0f5a590ead.webp",
+                "fileadmin/_processed_/csm_i000002524tv_fruit_inst_02_79a4b24a69.webp",
+                "fileadmin/_processed_/csm_i000002523tv_fruit_inst_01_d7d8dc2454.webp",
+                "fileadmin/_processed_/csm_i000001194AHegeduesTeleFruit3_4c3e84d7f1.webp",
+                "fileadmin/_processed_/csm_i000001193AHegeduesTeleFruit_4_cd82874c2b.webp",
+                "fileadmin/_processed_/csm_i000001192AHegeduesTeleFruit_2_c38cee7684.webp",
+                "fileadmin/_processed_/csm_i000001191AHegeduesTeleFruit_1_22599f0d76.webp",
+                "fileadmin/_processed_/csm_i000000928tvfruit_scema_32b7d89b75.webp",
+                "fileadmin/_processed_/csm_v000000741HegeduesTeleFruit_2376f24f73.webp",
+                "fileadmin/_processed_/csm_i000002526tv-fruit_money_e788441bd4.webp"
+            ],
+            "index": 1,
+            "x": 107.14087414755812,
+            "y": 208.259361934234,
+            "z": 79.14181908487785,
+            "vx": 1.8776618004970065,
+            "vy": 0.31820853247267267,
+            "vz": 0.2746796625221979
+        },
+        {
+            "uid": 171,
+            "title": "Corrida - Logique de la Perception",
+            "url": null,
+            "comment": "The event took place in two adjacent rooms. In the first Shusaku gave a Buto performance on the edge of a raised circular steel construction within which the image of a black bull was painted on the white floor. A video camera pointed at this situation was connected to a computer in the second room. Here a large video- projection showed a digitally processed version of the performance. The image processing was characterized by its very slow frame-rate and the reduction to just two colors - black and white. The projection was accompanied by a very loud soundtrack of music normally performed at a bull fight.",
+            "year_first": 1982,
+            "year_last": 0,
+            "artist": {
+                "uid": 51,
+                "first_name": "Jeffrey",
+                "last_name": "Shaw",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1944
+            },
+            "keywords": [
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 666,
+                    "title": "projected"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 639,
+                    "title": "duplicated"
+                },
+                {
+                    "uid": 653,
+                    "title": "documenting"
+                },
+                {
+                    "uid": 371,
+                    "title": "acoustic"
+                },
+                {
+                    "uid": 668,
+                    "title": "remediated"
+                },
+                {
+                    "uid": 1273,
+                    "title": "three-dimensional"
+                },
+                {
+                    "uid": 635,
+                    "title": "virtual"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 330,
+                    "title": "digital graphics"
+                },
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 532,
+                    "title": "performative installations"
+                },
+                {
+                    "uid": 240,
+                    "title": "sound installations"
+                },
+                {
+                    "uid": 537,
+                    "title": "computer performances"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 716,
+                    "title": "mirrors"
+                },
+                {
+                    "uid": 317,
+                    "title": "perspective"
+                },
+                {
+                    "uid": 738,
+                    "title": "virtuality"
+                },
+                {
+                    "uid": 408,
+                    "title": "visual culture"
+                },
+                {
+                    "uid": 222,
+                    "title": "bodies (animal components)"
+                },
+                {
+                    "uid": 1078,
+                    "title": "perception"
+                },
+                {
+                    "uid": 763,
+                    "title": "performativity"
+                },
+                {
+                    "uid": 407,
+                    "title": "traditions"
+                },
+                {
+                    "uid": 931,
+                    "title": "information"
+                },
+                {
+                    "uid": 545,
+                    "title": "visualization"
+                },
+                {
+                    "uid": 267,
+                    "title": "animals"
+                },
+                {
+                    "uid": 1285,
+                    "title": "digitization"
+                },
+                {
+                    "uid": 171,
+                    "title": "projection screens"
+                },
+                {
+                    "uid": 599,
+                    "title": "bodies (as non-electronic displays)"
+                },
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 239,
+                    "title": "World Wide Video Festival 83",
+                    "year_first": 1983,
+                    "year_last": 1983,
+                    "city": "The Hague",
+                    "country": "Netherlands",
+                    "institution": "Kijkhuis"
+                },
+                {
+                    "uid": 240,
+                    "title": "Corrida",
+                    "year_first": 1983,
+                    "year_last": 1983,
+                    "city": "Amsterdam",
+                    "country": "Netherlands",
+                    "institution": "Gallery Menz"
+                },
+                {
+                    "uid": 241,
+                    "title": "Corrida",
+                    "year_first": 1984,
+                    "year_last": 1984,
+                    "city": "Amsterdam",
+                    "country": "Netherlands",
+                    "institution": "De Meervaart"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_594_064_001_9e93f8265b.webp",
+                "fileadmin/_processed_/csm_945_js44w1982CorriPer1_o003_f_8856debc55.webp",
+                "fileadmin/_processed_/csm_513_js44w1982CorriPer1_o008_f_b06568d4e8.webp",
+                "fileadmin/_processed_/csm_552_js44w1982CorriPer1_o002_f_ed5e0e1dbd.webp",
+                "fileadmin/_processed_/csm_255_js44w1982CorriPer1_v001_x_7e3b107342.webp",
+                "fileadmin/_processed_/csm_301_js44w1982CorriPer1_o005_f_85d70a253b.webp",
+                "fileadmin/_processed_/csm_338_js44w1982CorriPer1_o009_f_24ba423fc9.webp",
+                "fileadmin/_processed_/csm_792_js44w1982CorriPer1_o006_f_e453f62a7d.webp"
+            ],
+            "index": 2,
+            "x": 65.83790146390706,
+            "y": 216.8447698213087,
+            "z": 47.2769852750752,
+            "vx": 2.0029646729611286,
+            "vy": 0.6536306058919666,
+            "vz": 0.45475808025083053
+        },
+        {
+            "uid": 199,
+            "title": "Televirtual Chit Chat",
+            "url": null,
+            "comment": "During Imagina &apos;93 computer graphics installations in Monte Carlo and in Karlsruhe were connected by modem through a conventional telephone line. Facing large video screens, the two distant players each shared the same virtual image space. While manipulating their own graphic elements each person was at the same time seeing on the screen in front of them the result of their distant partner&apos;s actions. Each player could choose letters from a simulated keyboard on their screen. Using a multi-axis 3D mouse, the position, size and shape of each of these letters could be interactively manipulated over a rectangular plane that was divided like a game board into a grid of 64 squares. A map on surface of this game board showed Europe between Monte Carlo and Karlsruhe, representing the geographical distance between the two players. Sharing a televirtual space of alphabetic forms, the formal interaction of the two players was both a sculptural interplay of the letters as well as a tentative communication with words. Up to eight letters could be placed by each player on the board at one time, and each player&apos;s letters had a distinctive colour (magenta and cyan). These letters could be individually resized in width, height and depth, becoming more transparent as their size increased. Each letter could also be moved anywhere over and above the surface of the game board. After some time, letters that were not being manipulated in one way or another would disappear from the game board area. Another function allowed each player to independently control their angle of view over the whole scene, and a voice phone connection between the two sites also allowed the players to speak to each other while manipulating these letters in the shared virtual space. ",
+            "year_first": 1993,
+            "year_last": 0,
+            "artist": {
+                "uid": 51,
+                "first_name": "Jeffrey",
+                "last_name": "Shaw",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1944
+            },
+            "keywords": [
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 376,
+                    "title": "production"
+                },
+                {
+                    "uid": 390,
+                    "title": "communities"
+                },
+                {
+                    "uid": 545,
+                    "title": "visualization"
+                },
+                {
+                    "uid": 219,
+                    "title": "communication"
+                },
+                {
+                    "uid": 235,
+                    "title": "poetry"
+                },
+                {
+                    "uid": 472,
+                    "title": "space"
+                },
+                {
+                    "uid": 460,
+                    "title": "geography"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 330,
+                    "title": "digital graphics"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 635,
+                    "title": "virtual"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 554,
+                    "title": "navigable"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 170,
+                    "title": "computer monitors"
+                },
+                {
+                    "uid": 180,
+                    "title": "mice (input device)"
+                },
+                {
+                    "uid": 1362,
+                    "title": "voice user interfaces (VUI)"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 177,
+                    "title": "IMAGINA 93",
+                    "year_first": 1993,
+                    "year_last": 1993,
+                    "city": "Monte Carlo",
+                    "country": "Monaco",
+                    "institution": "Institut National de l&apos;Audiovisuel"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_505_092_001_d1dceb4b7e.webp",
+                "fileadmin/_processed_/csm_483_092_002_8688f850cd.webp",
+                "fileadmin/_processed_/csm_349_092_003_58043d5c34.webp",
+                "fileadmin/_processed_/csm_692_js44w1993TelevCha1_o004_f_0de2d35196.webp",
+                "fileadmin/_processed_/csm_182_js44w1993TelevCha1_o008_f_0eeca0b473.webp",
+                "fileadmin/_processed_/csm_325_js44w1993TelevCha1_v001_x_57718993df.webp"
+            ],
+            "index": 3,
+            "x": 52.93002364906779,
+            "y": 183.35626599323797,
+            "z": 7.960156191766569,
+            "vx": 1.2045589802850318,
+            "vy": 0.5887779526004662,
+            "vz": 0.6297125916864001
+        },
+        {
+            "uid": 394,
+            "title": "The Living Web",
+            "url": "http://www.interface.ufg.ac.at/christa-laurent/WORKS/FRAMES/TOPFRAMES/TheLivingWebTop.html",
+            "comment": "This CAVE-based interactive and immersive installation explores the potential of the world-wide web as interactive and immersice data and information medium. Today information on the Internet is presented in a standard fashion, as defined by the currently available image browsers. In \"The Living Web\" users can immerse themselves physically and in 3D into this image and sound information streamed \"live\" from the Internet. Microphones pick up the users&apos; conversations and use them to generate and download corresponding image and sound file from the Web. Users can furthermore interact with these data through intuitive interfaces and explore their content in more detail. \"The Living Web\" presents a novel system for intuitive, immersive and entertaining information creation and retrieval. \r\n\r\nCHRISTA SOMMERER & LAURENT MIGNONNEAU",
+            "year_first": 2002,
+            "year_last": 2002,
+            "artist": {
+                "uid": 28,
+                "first_name": "(collective)",
+                "last_name": "Sommerer / Mignonneau",
+                "pseudonym": null,
+                "location": "Linz, Austria",
+                "birthyear": 1964
+            },
+            "keywords": [
+                {
+                    "uid": 179,
+                    "title": "joysticks"
+                },
+                {
+                    "uid": 157,
+                    "title": "interfaces"
+                },
+                {
+                    "uid": 172,
+                    "title": "active shutter 3D systems"
+                },
+                {
+                    "uid": 163,
+                    "title": "Cave automatic virtual environment (CAVE)"
+                },
+                {
+                    "uid": 156,
+                    "title": "displays"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 546,
+                    "title": "Internet"
+                },
+                {
+                    "uid": 220,
+                    "title": "complexity"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 165,
+                    "title": "virtual reality (VR)"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 210,
+                    "title": "dynamical systems"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 589,
+                    "title": "Art of Immersion, CAVE Festival",
+                    "year_first": 2002,
+                    "year_last": 2002,
+                    "city": "Bonn",
+                    "country": "Germany",
+                    "institution": "Bonner Entwicklungswerkstatt für Computermedien e.V. (BEC)"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_6589_TheLivingWeb-08_4d6d31a3b2.webp",
+                "fileadmin/_processed_/csm_2229_TheLivingWeb-07_32204e2e00.webp",
+                "fileadmin/_processed_/csm_1700_TLW_193c704593.webp",
+                "fileadmin/_processed_/csm_i000001496TheLivingWeb5_fcac271371.webp",
+                "fileadmin/_processed_/csm_i000001473TheLivingWeb1_8413ce67b9.webp",
+                "fileadmin/_processed_/csm_i000001474TheLivingWeb2_95f60bb306.webp",
+                "fileadmin/_processed_/csm_i000001475TheLivingWeb3_3eecf5ffda.webp",
+                "fileadmin/_processed_/csm_i000001476TheLivingWeb8_cb828ac314.webp",
+                "fileadmin/_processed_/csm_i000001477TheLivingWeb9_2b28e0c865.webp",
+                "fileadmin/_processed_/csm_i000001497TheLivingWeb6_24b713be30.webp",
+                "fileadmin/_processed_/csm_i000001498TheLivingWebCAVE1_2e0611b214.webp",
+                "fileadmin/_processed_/csm_v000001597SomMignLivingWeb_a7bc51cc8f.webp"
+            ],
+            "index": 76,
+            "x": 57.00886348006922,
+            "y": 137.52452544318467,
+            "z": -3.5843387669675084,
+            "vx": 0.021291105972275914,
+            "vy": 0.12587805622503778,
+            "vz": 0.2637809298839389
+        },
+        {
+            "uid": 396,
+            "title": "Ouija",
+            "url": "http://goldberg.berkeley.edu/art/ouija/",
+            "comment": "Ken Goldberg is one of the pioneers of telematic works, and \"Ouija 2000\" is not only a playful stab at the idea of global mind through the nostalgia of a Ouija board, it introduces important elements of real-time collaboration. \r\n\"Ouija 2000\" consists of a game board located in situ with its pointer mounted on a robotic arm and a webcam view of the board. In contrast to most teleoperation systems where a single user controls a single robot, with \"Ouija 2000\" participants logging on to the Web site are given instructions for using their computer mouse to interact with up to twenty other live players to collaboratively control a single industrial robot arm--and the board planchette. The game-program calculates the collective movement of online participants&apos; mice to determine the correct answer to point to. ",
+            "year_first": 2000,
+            "year_last": 2000,
+            "artist": {
+                "uid": 196,
+                "first_name": "Ken",
+                "last_name": "Goldberg",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1961
+            },
+            "keywords": [
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 631,
+                    "title": "tactile"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 210,
+                    "title": "dynamical systems"
+                },
+                {
+                    "uid": 1333,
+                    "title": "collaborative"
+                },
+                {
+                    "uid": 445,
+                    "title": "hands"
+                },
+                {
+                    "uid": 219,
+                    "title": "communication"
+                },
+                {
+                    "uid": 238,
+                    "title": "robots"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 785,
+                    "title": "Whitney Biennial 2000",
+                    "year_first": 2000,
+                    "year_last": 2000,
+                    "city": "New York",
+                    "country": "USA",
+                    "institution": "Whitney Museum of American Art"
+                }
+            ],
+            "previews": {
+                "1": "fileadmin/_processed_/csm_i000000607Ouija-installation-photo_b04feddbff.webp",
+                "2": "fileadmin/_processed_/csm_Ouija-hands-on-mouse-300dpi-do-not-link-to-me_56ff69e1ff.webp"
+            },
+            "index": 5,
+            "x": 45.45418648093555,
+            "y": 99.91417056948002,
+            "z": -32.39885419619053,
+            "vx": -0.3541236596731674,
+            "vy": 0.2584371765047128,
+            "vz": 1.1225998021721393
+        },
+        {
+            "uid": 418,
+            "title": "The Trace",
+            "url": null,
+            "comment": "\"The Trace\" is a telepresence installation that invites two participants in remote sites to share the same telematic space. The piece consists of vectors, sounds and graphics that respond to the movement of the participants. Two interactive stations are needed for the piece; these are interconnected with a normal ISDN digital line so they can be in the same exhibition hall, on either side of a city or in different cities.",
+            "year_first": 1995,
+            "year_last": 1995,
+            "artist": {
+                "uid": 188,
+                "first_name": "Rafael",
+                "last_name": "Lozano-Hemmer",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1967
+            },
+            "keywords": [
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 210,
+                    "title": "dynamical systems"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 797,
+                    "title": "ARCO 1995",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Madrid",
+                    "country": "Spain",
+                    "institution": "ARCO Foundation"
+                },
+                {
+                    "uid": 1037,
+                    "title": "Ars Electronica 1995: Welcome To The Wired World",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Linz",
+                    "country": "Austria",
+                    "institution": "Ars Electronica Linz GmbH & Co KG"
+                },
+                {
+                    "uid": 798,
+                    "title": "I, and My Circumstance: Mobility in Contemporary Mexican Art",
+                    "year_first": 1999,
+                    "year_last": 2000,
+                    "city": "Montreal",
+                    "country": "Canada",
+                    "institution": "The Montreal Museum of Fine Arts"
+                },
+                {
+                    "uid": 1668,
+                    "title": "Recorders: Rafael Lozano-Hemmer ",
+                    "year_first": 2010,
+                    "year_last": 2010,
+                    "city": "Manchester",
+                    "country": "United Kingdom",
+                    "institution": "Manchester City Galleries"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i000000649thetrace_584c4237a4.webp",
+                "fileadmin/_processed_/csm_v000000744RLozanoHemmaerTrace_8f95acba2c.webp",
+                "fileadmin/_processed_/csm_i000000745RLozanoHemmaerTrace_1_9299a7db79.webp",
+                "fileadmin/_processed_/csm_i000000746RLozanoHemmaerTrace_2_939315e1e2.webp",
+                "fileadmin/_processed_/csm_i000000747RLozanoHemmaerTrace_4_0ff85ba3e1.webp",
+                "fileadmin/_processed_/csm_i000000748RLozanoHemmaerTrace_3_d2e95d021e.webp",
+                "fileadmin/_processed_/csm_i000001520trace02_3dea58bcae.webp",
+                "fileadmin/_processed_/csm_i000001521trace03_404aa10ba3.webp"
+            ],
+            "index": 6,
+            "x": 10.702973354908188,
+            "y": 58.61727335495422,
+            "z": -18.25127759696259,
+            "vx": -1.0107746901864163,
+            "vy": 0.9406088077975807,
+            "vz": 1.5287931938864119
+        },
+        {
+            "uid": 556,
+            "title": "Between the words",
+            "url": null,
+            "comment": "This installation constitutes a specific modality of remote communication between two persons where facial expression and hand gestures are its essential agencies. \r\n\r\nTwo people face each other through an opening in a wall where an optical system of semi-transparent mirrors allows computer generated virtual images to appear in the space between them. On each side of the wall there are holes where the viewers put their hands to manipulate multi-axis joysticks, which control these two pairs of virtual hands. \r\n\r\nAs these hands are interactively moved their gestures continuously change. This is achieved by an algorithmic metamorphosis of the lines that constitute each hand, creating interplay of transitions between each gesture. In this way the two viewers enjoy visual communication with each other via this meta-language of gestural permutations - face-to-face they interactively manipulate surrogate virtual hands to articulate a nonverbal yet eloquent dialog. \r\n\r\n(A. Hegedüs)",
+            "year_first": 1995,
+            "year_last": 1995,
+            "artist": {
+                "uid": 49,
+                "first_name": "Agnes",
+                "last_name": "Hegedüs",
+                "pseudonym": "Hegedus",
+                "location": null,
+                "birthyear": 1964
+            },
+            "keywords": [
+                {
+                    "uid": 222,
+                    "title": "bodies (animal components)"
+                },
+                {
+                    "uid": 242,
+                    "title": "games"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 471,
+                    "title": "animated"
+                },
+                {
+                    "uid": 219,
+                    "title": "communication"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 790,
+                    "title": "Between the Words-Agnes Hegedues",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Bonn",
+                    "country": "Germany",
+                    "institution": "KAH Kunst- und Ausstellungshalle der Bundesrepublik Deutschland"
+                },
+                {
+                    "uid": 178,
+                    "title": "MultiMediale 4",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Karlsruhe",
+                    "country": "Germany",
+                    "institution": "ZKM"
+                },
+                {
+                    "uid": 445,
+                    "title": "ISEA 1995 [The Sixth International Symposium on Electronic Art]",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Rotterdam",
+                    "country": "Netherlands",
+                    "institution": "ISEA International1"
+                },
+                {
+                    "uid": 1037,
+                    "title": "Ars Electronica 1995: Welcome To The Wired World",
+                    "year_first": 1995,
+                    "year_last": 1995,
+                    "city": "Linz",
+                    "country": "Austria",
+                    "institution": "Ars Electronica Linz GmbH & Co KG"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i000000915betweenINST_side_d2bb8be251.webp",
+                "fileadmin/_processed_/csm_i000002486between_monitor_cab702cf44.webp",
+                "fileadmin/_processed_/csm_i000002487between_wall_521984c7de.webp",
+                "fileadmin/_processed_/csm_i000002488between_hands_29d6149e1d.webp"
+            ],
+            "index": 7,
+            "x": -32.86316067858881,
+            "y": 43.460175949329766,
+            "z": 26.73439243555525,
+            "vx": -1.4601169716363938,
+            "vy": 1.4013730488109875,
+            "vz": 0.9668169772898294
+        },
+        {
+            "uid": 977,
+            "title": "Poetrica",
+            "url": "http://www.poetrica.net",
+            "comment": "Poetrica is an investigation about reading and reception in entropic and cybrid situations and a practice of appropriation of the advertisement system as public space. \r\n\r\nIt was launched at Galeria Vermelho, in São Paulo, 2003, and closed in P0es1s, at Kulturforum, Berlin (2004). Nevertheless, Poetrica website is sitil opened for poetic action. \r\n\r\nThe project involves a series of visual poems conceived by myself with non-phonetic fonts (dings and system fonts), a DVD, digital prints, movie trailers and a teleintervention which allowed anyone to send messages, by the Web or SMS, to three commercial electronic billboards located in downtown São Paulo, using the same typographic background I used in my nomadic poems. \r\n\r\nMessages were transmitted from 4 to 8 PM for 10, every 3 minutes, following the order of ads scheduled to be broadcast in the same billboards. All users were notified by e-mail or SMS confirming the transmission in the electronic billboards. \r\n\r\nPoetrica website archives all messages with captions that identify the original text written before its conversion in an iconic font family, revealing in some ways a community of poetic hackers of the telecommunication system who acts in public spaces. \r\n\r\nA projection inside Galeria Vermelho transmitted back to visitors the action in the electronic billboards and street images. \r\n\r\nFor P0es1s exhibition at Kulturforum a documentary about the teleinterventionon DVD was produced and a series of ad_oetries (ads + poetry) was conceived to announce Poetrica at P0es1s on Kudamm electronic billboard and as trailers in Berlin movie theaters. ",
+            "year_first": 2003,
+            "year_last": 2004,
+            "artist": {
+                "uid": 515,
+                "first_name": "Giselle",
+                "last_name": "Beiguelman",
+                "pseudonym": null,
+                "location": "SAO PAULO",
+                "birthyear": 1962
+            },
+            "keywords": [
+                {
+                    "uid": 13,
+                    "title": "PHP"
+                },
+                {
+                    "uid": 11,
+                    "title": "Java"
+                },
+                {
+                    "uid": 341,
+                    "title": "webcams"
+                },
+                {
+                    "uid": 180,
+                    "title": "mice (input device)"
+                },
+                {
+                    "uid": 157,
+                    "title": "interfaces"
+                },
+                {
+                    "uid": 171,
+                    "title": "projection screens"
+                },
+                {
+                    "uid": 170,
+                    "title": "computer monitors"
+                },
+                {
+                    "uid": 156,
+                    "title": "displays"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 377,
+                    "title": "meme"
+                },
+                {
+                    "uid": 219,
+                    "title": "communication"
+                },
+                {
+                    "uid": 563,
+                    "title": "commerce"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 291,
+                    "title": "net art"
+                },
+                {
+                    "uid": 301,
+                    "title": "mixed reality"
+                },
+                {
+                    "uid": 165,
+                    "title": "virtual reality (VR)"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 343,
+                    "title": "database art"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 1211,
+                    "title": "Giselle Beiguelman - an Individual Retrospective",
+                    "year_first": 2004,
+                    "year_last": 2004,
+                    "city": "Hull",
+                    "country": "United Kingdom",
+                    "institution": "Hull Time Based Arts"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i000002543consolacao01_a238653feb.webp",
+                "fileadmin/_processed_/csm_i000002544paulista01_477cbf07fc.webp",
+                "fileadmin/_processed_/csm_i000002545poetrica_sp_246_63a595d8af.webp",
+                "fileadmin/_processed_/csm_i000002545poetrica_sp_246_63a595d8af.webp",
+                "fileadmin/_processed_/csm_i000002546poetrica_berlim_098_906319403b.webp",
+                "fileadmin/_processed_/csm_i000002547poetrica_berlim_126_62e20a1ce8.webp",
+                "fileadmin/_processed_/csm_i000002549poetrica_berlim_207_9558b1cb81.webp"
+            ],
+            "index": 135,
+            "x": -71.06297204937695,
+            "y": 45.41266718023581,
+            "z": 70.40635031112906,
+            "vx": -0.4540075330881095,
+            "vy": 0.3255606948967103,
+            "vz": 0.2665005581711161
+        },
+        {
+            "uid": 979,
+            "title": "esc for escape",
+            "url": "http://www.desvirtual.com/escape",
+            "comment": "esc for escape is cross media project on error messages. A documentary on life beyond the screen with outputs in DVD, electronic billboards and indoors exhibition, mediated by Internet, SMS e MMS. \r\n\r\nThe audience was invited to submit error messages (text and images) by mobile phones and the web. Their submissions appeared on a commercial electronic billboard at Paulista Avenue (SP) and in the exhibition space at Itaú Cultural. \r\n\r\nThere the visitors could not only submit messages and have the feedback projected on a large screen programmed to display four submissions at the same time, but also to watch a non-linear documentary, projected on two screens, about how different people deal with error messages. Moreover, from there it was possible to follow the updates in the electronic billboards on a 42 plasma monitor. \r\n\r\nA network of billboards also transmitted short calls for submissions in the main streets of the city. ",
+            "year_first": 2004,
+            "year_last": 2004,
+            "artist": {
+                "uid": 515,
+                "first_name": "Giselle",
+                "last_name": "Beiguelman",
+                "pseudonym": null,
+                "location": "SAO PAULO",
+                "birthyear": 1962
+            },
+            "keywords": [
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 474,
+                    "title": "telephones"
+                },
+                {
+                    "uid": 525,
+                    "title": "expanded cinema"
+                },
+                {
+                    "uid": 472,
+                    "title": "space"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 301,
+                    "title": "mixed reality"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 331,
+                    "title": "digital animation"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 471,
+                    "title": "animated"
+                },
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 156,
+                    "title": "displays"
+                },
+                {
+                    "uid": 171,
+                    "title": "projection screens"
+                },
+                {
+                    "uid": 170,
+                    "title": "computer monitors"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 1206,
+                    "title": "Art.ficial Emotion 2.0",
+                    "year_first": 2004,
+                    "year_last": 2004,
+                    "city": "Sao Paulo",
+                    "country": "Brazil",
+                    "institution": "Itaú Cultural Institute"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i000002554DSC08413_d41e705bc0.webp",
+                "fileadmin/_processed_/csm_i000002555DSC08251_863d9609c8.webp",
+                "fileadmin/_processed_/csm_i000002556DSC08367_1394cea5cd.webp"
+            ],
+            "index": 136,
+            "x": -179.942747600119,
+            "y": 43.716948710623015,
+            "z": 109.84959674532175,
+            "vx": -0.39532157255812367,
+            "vy": 0.29476490306318104,
+            "vz": 0.20864028601355103
+        },
+        {
+            "uid": 980,
+            "title": "//**Code_UP",
+            "url": "http://container.zkm.de/code_up",
+            "comment": "//**Code_me_UP investigates the role of the code in the meaning construction and the forms of visibility mediated by mobile communication devices. \r\n\r\nIn the exhibition space, the audience can capture pictures with cell phones with camera and send them to large screens via bluetooth where they are transformed into mobile matrixes that can be managed by keyboard and mouse commands, acquiring variable movement and density. \r\n\r\nThose matrixes are the result of algorithmic manipulation performed by a program that operates by converting the RGB color numeric values in height measures. ",
+            "year_first": 2004,
+            "year_last": 2004,
+            "artist": {
+                "uid": 515,
+                "first_name": "Giselle",
+                "last_name": "Beiguelman",
+                "pseudonym": null,
+                "location": "SAO PAULO",
+                "birthyear": 1962
+            },
+            "keywords": [
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 684,
+                    "title": "mobile"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 331,
+                    "title": "digital animation"
+                },
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 808,
+                    "title": "Media and Communication"
+                },
+                {
+                    "uid": 931,
+                    "title": "information"
+                },
+                {
+                    "uid": 945,
+                    "title": "telecommunications"
+                },
+                {
+                    "uid": 474,
+                    "title": "telephones"
+                },
+                {
+                    "uid": 814,
+                    "title": "Society and Culture"
+                },
+                {
+                    "uid": 390,
+                    "title": "communities"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 1352,
+                    "title": "hardware"
+                },
+                {
+                    "uid": 612,
+                    "title": "mobile devices"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 1207,
+                    "title": "Algorithmic Revolution. On the History of Interactive Art",
+                    "year_first": 2004,
+                    "year_last": 2008,
+                    "city": "Karlsruhe",
+                    "country": "Germany",
+                    "institution": "Medienmuseum des ZKM"
+                },
+                {
+                    "uid": 1210,
+                    "title": "FILE - Electronic Language International Festival 2004",
+                    "year_first": 2004,
+                    "year_last": 2004,
+                    "city": "Sao Paulo",
+                    "country": "Brazil",
+                    "institution": "FILE - Electronic Language International Festival"
+                },
+                {
+                    "uid": 1203,
+                    "title": "Piemonte Share Festival 2005",
+                    "year_first": 2005,
+                    "year_last": 2005,
+                    "city": "Turin",
+                    "country": "Italy",
+                    "institution": "Palazzo Cavour"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_i000002541codeup05_e504c0610d.webp",
+                "fileadmin/_processed_/csm_i000002570DSC09353_5548116dcf.webp",
+                "fileadmin/_processed_/csm_i000002569DSCI0012_9130243c3b.webp",
+                "fileadmin/_processed_/csm_i000002568DSCI0006_57df9c7618.webp",
+                "fileadmin/_processed_/csm_i000002567DSCI0003_7c0d9a8a49.webp",
+                "fileadmin/_processed_/csm_i000002566DSCI0005_981d90dac6.webp",
+                "fileadmin/_processed_/csm_i000002565DSCI0001_5dacc30783.webp",
+                "fileadmin/_processed_/csm_i000002564DSC08985_00a2c861f3.webp",
+                "fileadmin/_processed_/csm_i000002563DSC08870_73302479a2.webp",
+                "fileadmin/_processed_/csm_i000002571DSCI0002_24b0323182.webp"
+            ],
+            "index": 10,
+            "x": -227.94610857433975,
+            "y": -10.403439278351257,
+            "z": 128.7371920462663,
+            "vx": -1.5924720506551282,
+            "vy": 1.5224626227038112,
+            "vz": 0.19924497415657946
+        },
+        {
+            "uid": 1030,
+            "title": "Website MMM",
+            "url": "http://www.simonemichelin.com/sm/mmm/",
+            "comment": "The web site MMM is based on the work-in-progress (The) Bride Descending a Staircase, developed by Simone Michelin, in Porto Alegre, Rio de Janeiro (BR), Philadelphia and New York (US), from 1989 to 1999. The series had a latter version created for the exhibition Expanded Territory III, which focused on Brazilian electronic art, in 2001. I see MMM as an experience whose result was a hybrid of an electronic catalog and concept based art in this hypermedia format. Its appearance refers to the modernist grid (R. Krauss) that works as a symbol of this specific space -- that is the &apos;anthropologic space&apos; in the modernist period The work-in-progress (The) Bride Descending a Staircase, synthetically is (The) Bride conveys aspects that strongly shaped postmodern culture. The work comments on the sublimation/de-sublimation of the body promoted by mass media, the artist as a commodity and the creation of reality (space and time specific relations) as determined by media tools like movies and advertisements (TV, billboards), and the woman position in this realm. (The) Bride tells the story synthetically, through signs, and opens a spectrum of questions. The issues raised go through retinal phenomena to the use of text and the comprehension of space as succession, hierarchy, position, virtuality, reflection and reversion, essence and appearance. Due to its configuration this series delineates the place of woman as a double negation (the 2 signs used for her representation, the name and the icon, are ambiguous) but also as the space &apos;in between&apos; as the space of reunion. It is movement - movement as binding medium. The work is self-referent both in terms of structure and the contents on which it is explicitly focused: myth, movie, movement. \r\n\r\n(source: Simone Michelin; http://smichelin.art.br/english/bride.html)",
+            "year_first": 1998,
+            "year_last": 2000,
+            "artist": {
+                "uid": 523,
+                "first_name": "Simone",
+                "last_name": "Michelin",
+                "pseudonym": null,
+                "location": "São Paulo, Brazil",
+                "birthyear": 1956
+            },
+            "keywords": [
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 554,
+                    "title": "navigable"
+                },
+                {
+                    "uid": 285,
+                    "title": "narrative"
+                },
+                {
+                    "uid": 682,
+                    "title": "hypermediacy"
+                },
+                {
+                    "uid": 653,
+                    "title": "documenting"
+                },
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 691,
+                    "title": "allegory"
+                },
+                {
+                    "uid": 693,
+                    "title": "animations"
+                },
+                {
+                    "uid": 708,
+                    "title": "grids"
+                },
+                {
+                    "uid": 374,
+                    "title": "representation"
+                },
+                {
+                    "uid": 383,
+                    "title": "Postmodernism"
+                },
+                {
+                    "uid": 384,
+                    "title": "post-structuralism"
+                },
+                {
+                    "uid": 286,
+                    "title": "gender"
+                },
+                {
+                    "uid": 1014,
+                    "title": "colonialism"
+                },
+                {
+                    "uid": 485,
+                    "title": "history"
+                },
+                {
+                    "uid": 892,
+                    "title": "postcolonialism"
+                },
+                {
+                    "uid": 929,
+                    "title": "hypertext"
+                },
+                {
+                    "uid": 546,
+                    "title": "Internet"
+                },
+                {
+                    "uid": 1203,
+                    "title": "equality"
+                },
+                {
+                    "uid": 812,
+                    "title": "Religion and Mythology"
+                },
+                {
+                    "uid": 229,
+                    "title": "myths"
+                },
+                {
+                    "uid": 1207,
+                    "title": "feminism"
+                },
+                {
+                    "uid": 170,
+                    "title": "computer monitors"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 5853,
+                    "title": "1st Sergio Motta Prize for Art and Technology",
+                    "year_first": 2001,
+                    "year_last": 2001,
+                    "city": "Sao Paulo",
+                    "country": "Brazil",
+                    "institution": "Instituto Sergio Motta"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_6884_MMM_web_9f2f82d3ab.webp",
+                "fileadmin/_processed_/csm_3824_mmm_web_site_1_6c5a0f3a70.webp",
+                "fileadmin/_processed_/csm_4409_MMM_web_1_2d4635659b.webp",
+                "fileadmin/_processed_/csm_1016_diagrama_MMM_site_3423b34579.webp"
+            ],
+            "index": 11,
+            "x": -284.1865442669865,
+            "y": -55.90854335277807,
+            "z": 127.3189359369311,
+            "vx": -1.660135495580869,
+            "vy": 1.9431665277442307,
+            "vz": 0.2508253362752985
+        },
+        {
+            "uid": 2132,
+            "title": "Essay concerning human understanding",
+            "url": "http://www.ekac.org/Essay.html",
+            "comment": "Placed in the middle of the Center for Contemporary Art, the yellow canary was given a very large and comfortable cylindrical white cage, on top of which circuit-boards, a speaker, and a microphone were located. A clear Plexiglas disc separated the canary from this equipment, which was wired to the phone system. In New York, an electrode was placed on the plant's leaf to sense its response to the singing of the bird. The microvoltage fluctuation of the plant was monitored through a Macintosh running a software called Interactive Brain-Wave Analyzer (IBVA). Ironically, a program designed to detect human mental activity was employed to inspect the vital activity of an organism generally understood as devoid of consciousness. The information coming from the plant was fed into another Macintosh running MAX, which controlled a MIDI sequencer. The electronic sounds themselves were pre-recorded, but the order and the duration were determined in real time by the plant's response to the singing of the bird.\r\n\r\nWhen this work was shown publicly, the bird and the plant interacted for several hours daily. Humans interacted with the bird and the plant as well. Just by standing next to the plant and the bird, humans immediately altered their behavior. When in close proximity, the interaction was further enhanced by the constantly changing behavior of the bird and the plant, which responded by singing more (bird), activating more sounds (plant), or by remaining quiet.\r\n\r\nBy enabling an isolated and caged animal to have a telematic conversation with a member of another species, this installation dramatized the role of communication and telecommunications in human lives. The inter-species communicative experience observed in the gallery reflects our own longing for interaction, our desire to reach out and stay in touch. This interactive installation is as much about creating art for non-humans as it is about human isolation and loneliness, and about the very possibility of communication. As this piece projects the complexities of electronically mediated human communication over non-human organisms, it surprisingly reveals aspects of our own communicative experience. This interaction is as dynamic and unpredictable as a human dialogue.\r\n\r\nEduardo Kac",
+            "year_first": 1994,
+            "year_last": 1994,
+            "artist": {
+                "uid": 78,
+                "first_name": "Eduardo",
+                "last_name": "Kac",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1962
+            },
+            "keywords": [
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 1704,
+                    "title": "Eduardo Kac Foundation Vasarely",
+                    "year_first": 2007,
+                    "year_last": null,
+                    "city": "Aix-En-Provence",
+                    "country": "France",
+                    "institution": "Foundation Vasarely"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_plant_a955a995ed.webp",
+                "fileadmin/_processed_/csm_essay.diag_5a8e833656.webp",
+                "fileadmin/user_upload/Virtualart/Images/wizard/bird.GIF",
+                "fileadmin/_processed_/csm_bird.alone_1854744f83.webp",
+                "fileadmin/_processed_/csm_05.essay.plant.2_c89e204ec5.webp",
+                "fileadmin/_processed_/csm_04.essay.plant.1_80f3d08245.webp",
+                "fileadmin/_processed_/csm_03.essay.bird.detail.2_2c5cb6d6df.webp",
+                "fileadmin/_processed_/csm_02.essay.bird.detail.1_748c3fb22d.webp",
+                "fileadmin/_processed_/csm_01.essay.bird.general_d7aeeab7f8.webp"
+            ],
+            "index": 12,
+            "x": -328.07748967091146,
+            "y": -57.19533243546634,
+            "z": 92.92147928625606,
+            "vx": -1.3893085869960844,
+            "vy": 1.8804320724593975,
+            "vz": 0.1415659657063781
+        },
+        {
+            "uid": 2720,
+            "title": "Interview: One on One (Part 1)",
+            "url": "http://www.youtube.com/watch?v=evxlR3zJ11o",
+            "comment": "Riz Khan meets a man who built a 'time capsule' and calls himself a 'bio' artist. Interview.",
+            "year_first": 2008,
+            "year_last": 2008,
+            "artist": {
+                "uid": 78,
+                "first_name": "Eduardo",
+                "last_name": "Kac",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": 1962
+            },
+            "keywords": [
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 529,
+                    "title": "performance art"
+                },
+                {
+                    "uid": 661,
+                    "title": "networked"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 806,
+                    "title": "History and Memory"
+                },
+                {
+                    "uid": 808,
+                    "title": "Media and Communication"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_6270_Kac_Interview_be41c9c640.webp"
+            ],
+            "index": 13,
+            "x": -323.6978887048881,
+            "y": -9.13359106882046,
+            "z": 47.63830864929232,
+            "vx": -0.46978885960681394,
+            "vy": 1.6078778112899728,
+            "vz": 0.19229879026993435
+        },
+        {
+            "uid": 3866,
+            "title": "Brain Wave Drawings",
+            "url": null,
+            "comment": "",
+            "year_first": 1973,
+            "year_last": 2004,
+            "artist": {
+                "uid": 1019,
+                "first_name": "Nina",
+                "last_name": "Sobell",
+                "pseudonym": null,
+                "location": "New York City",
+                "birthyear": 1947
+            },
+            "keywords": [
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 371,
+                    "title": "acoustic"
+                },
+                {
+                    "uid": 471,
+                    "title": "animated"
+                },
+                {
+                    "uid": 1333,
+                    "title": "collaborative"
+                },
+                {
+                    "uid": 353,
+                    "title": "contextual"
+                },
+                {
+                    "uid": 674,
+                    "title": "cybernetic"
+                },
+                {
+                    "uid": 653,
+                    "title": "documenting"
+                },
+                {
+                    "uid": 675,
+                    "title": "ephemeral"
+                },
+                {
+                    "uid": 641,
+                    "title": "experimental"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 665,
+                    "title": "polysensory"
+                },
+                {
+                    "uid": 666,
+                    "title": "projected"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 524,
+                    "title": "bioart"
+                },
+                {
+                    "uid": 330,
+                    "title": "digital graphics"
+                },
+                {
+                    "uid": 570,
+                    "title": "game art"
+                },
+                {
+                    "uid": 571,
+                    "title": "glitch art"
+                },
+                {
+                    "uid": 578,
+                    "title": "hybrid art"
+                },
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 291,
+                    "title": "net art"
+                },
+                {
+                    "uid": 529,
+                    "title": "performance art"
+                },
+                {
+                    "uid": 292,
+                    "title": "robotic art"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 813,
+                    "title": "Art and Science"
+                },
+                {
+                    "uid": 689,
+                    "title": "Arts and Visual Culture"
+                },
+                {
+                    "uid": 758,
+                    "title": "Body and Psychology"
+                },
+                {
+                    "uid": 808,
+                    "title": "Media and Communication"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 156,
+                    "title": "displays"
+                },
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 1352,
+                    "title": "hardware"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 180,
+                    "title": "mice (input device)"
+                },
+                {
+                    "uid": 3,
+                    "title": "MAC"
+                },
+                {
+                    "uid": 188,
+                    "title": "touch screens"
+                },
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                },
+                {
+                    "uid": 341,
+                    "title": "webcams"
+                },
+                {
+                    "uid": 157,
+                    "title": "interfaces"
+                },
+                {
+                    "uid": 616,
+                    "title": "biometrics"
+                },
+                {
+                    "uid": 1357,
+                    "title": "body sensors"
+                },
+                {
+                    "uid": 178,
+                    "title": "camera recordings"
+                },
+                {
+                    "uid": 481,
+                    "title": "electromagnetism"
+                },
+                {
+                    "uid": 1361,
+                    "title": "interactive media"
+                },
+                {
+                    "uid": 1358,
+                    "title": "soundgenerating devices"
+                },
+                {
+                    "uid": 1351,
+                    "title": "software"
+                },
+                {
+                    "uid": 513,
+                    "title": "ISDN"
+                },
+                {
+                    "uid": 12,
+                    "title": "Linux"
+                },
+                {
+                    "uid": 623,
+                    "title": "robotic user interfaces (RUI)"
+                },
+                {
+                    "uid": 187,
+                    "title": "software interfaces"
+                },
+                {
+                    "uid": 510,
+                    "title": "video (digital)"
+                },
+                {
+                    "uid": 613,
+                    "title": "wireless sensor networks (WSN)"
+                }
+            ],
+            "events": [],
+            "previews": {
+                "0": "fileadmin/_processed_/csm_181_BWD5_a3b9a67936.webp",
+                "2": "fileadmin/_processed_/csm_530_BWD2_fd9a3b5fa8.webp",
+                "3": "fileadmin/_processed_/csm_105_BWD4_7d84e7ce6b.webp",
+                "5": "fileadmin/_processed_/csm_3672_BWD_1973_fd6f3cceaa.webp"
+            },
+            "index": 172,
+            "x": -290.1602917651179,
+            "y": 42.96534712058005,
+            "z": 16.215355634665205,
+            "vx": -0.08361978665804393,
+            "vy": 0.3623530372316459,
+            "vz": 0.13294088695980869
+        },
+        {
+            "uid": 3872,
+            "title": "Deriva",
+            "url": "http://deriva.tv",
+            "comment": "",
+            "year_first": 2004,
+            "year_last": 2015,
+            "artist": {
+                "uid": 1122,
+                "first_name": "Roc",
+                "last_name": "Parés",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 675,
+                    "title": "ephemeral"
+                },
+                {
+                    "uid": 641,
+                    "title": "experimental"
+                },
+                {
+                    "uid": 569,
+                    "title": "art interventions"
+                },
+                {
+                    "uid": 684,
+                    "title": "mobile"
+                },
+                {
+                    "uid": 661,
+                    "title": "networked"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 670,
+                    "title": "site-specific"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 574,
+                    "title": "digital activism"
+                },
+                {
+                    "uid": 291,
+                    "title": "net art"
+                },
+                {
+                    "uid": 529,
+                    "title": "performance art"
+                },
+                {
+                    "uid": 530,
+                    "title": "video performances"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 813,
+                    "title": "Art and Science"
+                },
+                {
+                    "uid": 1258,
+                    "title": "cartography"
+                },
+                {
+                    "uid": 1271,
+                    "title": "cyberspace"
+                },
+                {
+                    "uid": 1160,
+                    "title": "experiments"
+                },
+                {
+                    "uid": 460,
+                    "title": "geography"
+                },
+                {
+                    "uid": 235,
+                    "title": "poetry"
+                },
+                {
+                    "uid": 424,
+                    "title": "broadcasts"
+                },
+                {
+                    "uid": 927,
+                    "title": "global village"
+                },
+                {
+                    "uid": 546,
+                    "title": "Internet"
+                },
+                {
+                    "uid": 945,
+                    "title": "telecommunications"
+                },
+                {
+                    "uid": 504,
+                    "title": "television"
+                },
+                {
+                    "uid": 323,
+                    "title": "globes"
+                },
+                {
+                    "uid": 226,
+                    "title": "landscapes (environments)"
+                },
+                {
+                    "uid": 810,
+                    "title": "Power and Politics"
+                },
+                {
+                    "uid": 332,
+                    "title": "surveillance"
+                },
+                {
+                    "uid": 814,
+                    "title": "Society and Culture"
+                },
+                {
+                    "uid": 1187,
+                    "title": "activism"
+                },
+                {
+                    "uid": 1211,
+                    "title": "globalization"
+                },
+                {
+                    "uid": 1223,
+                    "title": "participation"
+                },
+                {
+                    "uid": 505,
+                    "title": "voyeurism"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 1289,
+                    "title": "innovation"
+                },
+                {
+                    "uid": 1291,
+                    "title": "mobility"
+                },
+                {
+                    "uid": 960,
+                    "title": "nonhuman communication"
+                },
+                {
+                    "uid": 458,
+                    "title": "technophobia"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 1304,
+                    "title": "telepresence"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 612,
+                    "title": "mobile devices"
+                },
+                {
+                    "uid": 619,
+                    "title": "Global Positioning System (GPS)"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_625_DSC03031_f4595e3521.webp"
+            ],
+            "index": 15,
+            "x": -191.20716529228088,
+            "y": 13.963545193244835,
+            "z": 66.32853175875525,
+            "vx": -0.35236392474123474,
+            "vy": 1.0637215015512476,
+            "vz": 0.14940889005775732
+        },
+        {
+            "uid": 4012,
+            "title": "Human Genome re-Activation",
+            "url": "http://www1.khm.de/~marcello/html/videoart/finger.html",
+            "comment": "",
+            "year_first": 2011,
+            "year_last": 2011,
+            "artist": {
+                "uid": 1028,
+                "first_name": "Marcello",
+                "last_name": "Mercado",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 23,
+                    "title": "aesthetics"
+                },
+                {
+                    "uid": 371,
+                    "title": "acoustic"
+                },
+                {
+                    "uid": 1336,
+                    "title": "anthropomorph"
+                },
+                {
+                    "uid": 674,
+                    "title": "cybernetic"
+                },
+                {
+                    "uid": 653,
+                    "title": "documenting"
+                },
+                {
+                    "uid": 1364,
+                    "title": "immaterial"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 495,
+                    "title": "processual"
+                },
+                {
+                    "uid": 688,
+                    "title": "sculptural"
+                },
+                {
+                    "uid": 671,
+                    "title": "sonification"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 159,
+                    "title": "genres"
+                },
+                {
+                    "uid": 524,
+                    "title": "bioart"
+                },
+                {
+                    "uid": 343,
+                    "title": "database art"
+                },
+                {
+                    "uid": 529,
+                    "title": "performance art"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 166,
+                    "title": "subjects"
+                },
+                {
+                    "uid": 813,
+                    "title": "Art and Science"
+                },
+                {
+                    "uid": 758,
+                    "title": "Body and Psychology"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 1,
+                    "title": "technology"
+                },
+                {
+                    "uid": 157,
+                    "title": "interfaces"
+                },
+                {
+                    "uid": 1351,
+                    "title": "software"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_326_Screen_Shot_2017-03-20_at_22.59.18_d874fbc5b2.webp"
+            ],
+            "index": 16,
+            "x": -46.70992521816314,
+            "y": -2.8825183543999193,
+            "z": 132.9345404830488,
+            "vx": -0.9286261943777558,
+            "vy": 0.9298752316821132,
+            "vz": 0.41708763515004826
+        },
+        {
+            "uid": 4079,
+            "title": "Imagining Macondo",
+            "url": "https://www.evl.uic.edu/documents/forbes_macondo_cga2015.pdf",
+            "comment": "",
+            "year_first": 2015,
+            "year_last": 2015,
+            "artist": {
+                "uid": 1234,
+                "first_name": "Andres",
+                "last_name": "Burbano",
+                "pseudonym": null,
+                "location": "Bogota, Colombia",
+                "birthyear": 1972
+            },
+            "keywords": [
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 359,
+                    "title": "panoramatic"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 343,
+                    "title": "database art"
+                },
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 689,
+                    "title": "Arts and Visual Culture"
+                },
+                {
+                    "uid": 808,
+                    "title": "Media and Communication"
+                },
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 188,
+                    "title": "touch screens"
+                },
+                {
+                    "uid": 1361,
+                    "title": "interactive media"
+                },
+                {
+                    "uid": 11,
+                    "title": "Java"
+                },
+                {
+                    "uid": 187,
+                    "title": "software interfaces"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 3818,
+                    "title": "Pabellón Macondo",
+                    "year_first": 2015,
+                    "year_last": 2015,
+                    "city": "Bogotá",
+                    "country": "Colombia",
+                    "institution": "International Book Fair"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_564_Imagining_Macondo_Legrady_Forbes_Burbano_54b7690c69.webp"
+            ],
+            "index": 17,
+            "x": 96.21443020218578,
+            "y": -7.27101992717592,
+            "z": 178.16757982109394,
+            "vx": -0.9534026761799054,
+            "vy": 0.7348137141222578,
+            "vz": 0.892903619752932
+        },
+        {
+            "uid": 4107,
+            "title": "I Move In Decades",
+            "url": "https://www.youtube.com/watch?time_continue=315&v=jCd5rx7m7ws",
+            "comment": "",
+            "year_first": 2011,
+            "year_last": 0,
+            "artist": {
+                "uid": 942,
+                "first_name": "Ellen",
+                "last_name": "Pearlman",
+                "pseudonym": null,
+                "location": "New York, US/Riga, Latvia",
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 471,
+                    "title": "animated"
+                },
+                {
+                    "uid": 345,
+                    "title": "assembled"
+                },
+                {
+                    "uid": 353,
+                    "title": "contextual"
+                },
+                {
+                    "uid": 641,
+                    "title": "experimental"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 668,
+                    "title": "remediated"
+                },
+                {
+                    "uid": 670,
+                    "title": "site-specific"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 343,
+                    "title": "database art"
+                },
+                {
+                    "uid": 578,
+                    "title": "hybrid art"
+                },
+                {
+                    "uid": 529,
+                    "title": "performance art"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 689,
+                    "title": "Arts and Visual Culture"
+                },
+                {
+                    "uid": 758,
+                    "title": "Body and Psychology"
+                },
+                {
+                    "uid": 806,
+                    "title": "History and Memory"
+                },
+                {
+                    "uid": 810,
+                    "title": "Power and Politics"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 170,
+                    "title": "computer monitors"
+                },
+                {
+                    "uid": 171,
+                    "title": "projection screens"
+                },
+                {
+                    "uid": 18,
+                    "title": "loudspeakers"
+                },
+                {
+                    "uid": 599,
+                    "title": "bodies (as non-electronic displays)"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 3,
+                    "title": "MAC"
+                },
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                },
+                {
+                    "uid": 1357,
+                    "title": "body sensors"
+                },
+                {
+                    "uid": 178,
+                    "title": "camera recordings"
+                },
+                {
+                    "uid": 584,
+                    "title": "mixed reality-based interaction"
+                },
+                {
+                    "uid": 608,
+                    "title": "touch user interfaces"
+                },
+                {
+                    "uid": 187,
+                    "title": "software interfaces"
+                },
+                {
+                    "uid": 613,
+                    "title": "wireless sensor networks (WSN)"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_82_Screen_Shot_2018-08-27_at_1.11.35_PM_5e76bf3207.webp"
+            ],
+            "index": 18,
+            "x": 220.46108196490533,
+            "y": -0.20638563714351021,
+            "z": 205.76504719503276,
+            "vx": -0.938947346711337,
+            "vy": 0.6169029470970839,
+            "vz": 1.283088184993203
+        },
+        {
+            "uid": 4109,
+            "title": "Here and There",
+            "url": "https://www.youtube.com/watch?time_continue=2&v=ZTG_jmwJ9fM",
+            "comment": "",
+            "year_first": 2011,
+            "year_last": 0,
+            "artist": {
+                "uid": 942,
+                "first_name": "Ellen",
+                "last_name": "Pearlman",
+                "pseudonym": null,
+                "location": "New York, US/Riga, Latvia",
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 626,
+                    "title": "anamorphic"
+                },
+                {
+                    "uid": 1333,
+                    "title": "collaborative"
+                },
+                {
+                    "uid": 210,
+                    "title": "dynamical systems"
+                },
+                {
+                    "uid": 641,
+                    "title": "experimental"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 668,
+                    "title": "remediated"
+                },
+                {
+                    "uid": 671,
+                    "title": "sonification"
+                },
+                {
+                    "uid": 631,
+                    "title": "tactile"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 635,
+                    "title": "virtual"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 532,
+                    "title": "performative installations"
+                },
+                {
+                    "uid": 240,
+                    "title": "sound installations"
+                },
+                {
+                    "uid": 533,
+                    "title": "multimedia performances"
+                },
+                {
+                    "uid": 531,
+                    "title": "sound performances"
+                },
+                {
+                    "uid": 530,
+                    "title": "video performances"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 222,
+                    "title": "bodies (animal components)"
+                },
+                {
+                    "uid": 767,
+                    "title": "embodiment"
+                },
+                {
+                    "uid": 445,
+                    "title": "hands"
+                },
+                {
+                    "uid": 1285,
+                    "title": "digitization"
+                },
+                {
+                    "uid": 1289,
+                    "title": "innovation"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 1304,
+                    "title": "telepresence"
+                },
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 180,
+                    "title": "mice (input device)"
+                },
+                {
+                    "uid": 175,
+                    "title": "data gloves"
+                },
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                },
+                {
+                    "uid": 341,
+                    "title": "webcams"
+                },
+                {
+                    "uid": 178,
+                    "title": "camera recordings"
+                },
+                {
+                    "uid": 620,
+                    "title": "multimodal interaction"
+                },
+                {
+                    "uid": 608,
+                    "title": "touch user interfaces"
+                },
+                {
+                    "uid": 618,
+                    "title": "synthesizers"
+                },
+                {
+                    "uid": 187,
+                    "title": "software interfaces"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_54_Screen_Shot_2018-08-27_at_1.19.30_PM_05a287e448.webp"
+            ],
+            "index": 19,
+            "x": 323.53301115343436,
+            "y": 15.144749253389708,
+            "z": 222.68378894660395,
+            "vx": -0.8699980611645,
+            "vy": 0.744352331609897,
+            "vz": 1.417553722183291
+        },
+        {
+            "uid": 4110,
+            "title": "Nuclear Sweet",
+            "url": "https://www.youtube.com/watch?time_continue=1&v=ydMarTpo6xo",
+            "comment": "",
+            "year_first": 2011,
+            "year_last": 0,
+            "artist": {
+                "uid": 942,
+                "first_name": "Ellen",
+                "last_name": "Pearlman",
+                "pseudonym": null,
+                "location": "New York, US/Riga, Latvia",
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 371,
+                    "title": "acoustic"
+                },
+                {
+                    "uid": 471,
+                    "title": "animated"
+                },
+                {
+                    "uid": 1333,
+                    "title": "collaborative"
+                },
+                {
+                    "uid": 639,
+                    "title": "duplicated"
+                },
+                {
+                    "uid": 210,
+                    "title": "dynamical systems"
+                },
+                {
+                    "uid": 675,
+                    "title": "ephemeral"
+                },
+                {
+                    "uid": 641,
+                    "title": "experimental"
+                },
+                {
+                    "uid": 350,
+                    "title": "installation-based"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 1367,
+                    "title": "intermedial"
+                },
+                {
+                    "uid": 661,
+                    "title": "networked"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 668,
+                    "title": "remediated"
+                },
+                {
+                    "uid": 687,
+                    "title": "remixed"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 633,
+                    "title": "time-based"
+                },
+                {
+                    "uid": 636,
+                    "title": "visual"
+                },
+                {
+                    "uid": 578,
+                    "title": "hybrid art"
+                },
+                {
+                    "uid": 532,
+                    "title": "performative installations"
+                },
+                {
+                    "uid": 240,
+                    "title": "sound installations"
+                },
+                {
+                    "uid": 534,
+                    "title": "happenings"
+                },
+                {
+                    "uid": 533,
+                    "title": "multimedia performances"
+                },
+                {
+                    "uid": 531,
+                    "title": "sound performances"
+                },
+                {
+                    "uid": 530,
+                    "title": "video performances"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 284,
+                    "title": "code"
+                },
+                {
+                    "uid": 528,
+                    "title": "conceptual art"
+                },
+                {
+                    "uid": 1369,
+                    "title": "dance"
+                },
+                {
+                    "uid": 525,
+                    "title": "expanded cinema"
+                },
+                {
+                    "uid": 762,
+                    "title": "agency"
+                },
+                {
+                    "uid": 268,
+                    "title": "humans"
+                },
+                {
+                    "uid": 202,
+                    "title": "movement"
+                },
+                {
+                    "uid": 763,
+                    "title": "performativity"
+                },
+                {
+                    "uid": 951,
+                    "title": "electronic media"
+                },
+                {
+                    "uid": 271,
+                    "title": "motion pictures (visual works)"
+                },
+                {
+                    "uid": 310,
+                    "title": "intermediality"
+                },
+                {
+                    "uid": 545,
+                    "title": "visualization"
+                },
+                {
+                    "uid": 1285,
+                    "title": "digitization"
+                },
+                {
+                    "uid": 1286,
+                    "title": "emulation"
+                },
+                {
+                    "uid": 1289,
+                    "title": "innovation"
+                },
+                {
+                    "uid": 502,
+                    "title": "simulation"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 1304,
+                    "title": "telepresence"
+                },
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                },
+                {
+                    "uid": 1361,
+                    "title": "interactive media"
+                },
+                {
+                    "uid": 620,
+                    "title": "multimodal interaction"
+                },
+                {
+                    "uid": 607,
+                    "title": "tangible acoustic interfaces (TAI)"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 3842,
+                    "title": "Happening Festival of New Music and Media",
+                    "year_first": 2011,
+                    "year_last": null,
+                    "city": "Calgary",
+                    "country": "Canada",
+                    "institution": "University of Calgary"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_177_Screen_Shot_2018-08-27_at_12.57.48_PM_8368697120.webp"
+            ],
+            "index": 20,
+            "x": 402.63254661594476,
+            "y": 41.193736782249985,
+            "z": 233.20302851513665,
+            "vx": -0.6718955418188031,
+            "vy": 0.8265057024371467,
+            "vz": 1.481711004197498
+        },
+        {
+            "uid": 4111,
+            "title": "Indiana Intermedia Festival Performance",
+            "url": "https://www.youtube.com/watch?time_continue=4&v=EH1OwEct9Hc",
+            "comment": "",
+            "year_first": 2010,
+            "year_last": 0,
+            "artist": {
+                "uid": 942,
+                "first_name": "Ellen",
+                "last_name": "Pearlman",
+                "pseudonym": null,
+                "location": "New York, US/Riga, Latvia",
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 371,
+                    "title": "acoustic"
+                },
+                {
+                    "uid": 345,
+                    "title": "assembled"
+                },
+                {
+                    "uid": 1333,
+                    "title": "collaborative"
+                },
+                {
+                    "uid": 353,
+                    "title": "contextual"
+                },
+                {
+                    "uid": 210,
+                    "title": "dynamical systems"
+                },
+                {
+                    "uid": 641,
+                    "title": "experimental"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 666,
+                    "title": "projected"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 668,
+                    "title": "remediated"
+                },
+                {
+                    "uid": 687,
+                    "title": "remixed"
+                },
+                {
+                    "uid": 670,
+                    "title": "site-specific"
+                },
+                {
+                    "uid": 671,
+                    "title": "sonification"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 532,
+                    "title": "performative installations"
+                },
+                {
+                    "uid": 240,
+                    "title": "sound installations"
+                },
+                {
+                    "uid": 533,
+                    "title": "multimedia performances"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 1177,
+                    "title": "research"
+                },
+                {
+                    "uid": 525,
+                    "title": "expanded cinema"
+                },
+                {
+                    "uid": 408,
+                    "title": "visual culture"
+                },
+                {
+                    "uid": 222,
+                    "title": "bodies (animal components)"
+                },
+                {
+                    "uid": 951,
+                    "title": "electronic media"
+                },
+                {
+                    "uid": 927,
+                    "title": "global village"
+                },
+                {
+                    "uid": 945,
+                    "title": "telecommunications"
+                },
+                {
+                    "uid": 1285,
+                    "title": "digitization"
+                },
+                {
+                    "uid": 1289,
+                    "title": "innovation"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 1304,
+                    "title": "telepresence"
+                },
+                {
+                    "uid": 171,
+                    "title": "projection screens"
+                },
+                {
+                    "uid": 168,
+                    "title": "projectors"
+                },
+                {
+                    "uid": 18,
+                    "title": "loudspeakers"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                },
+                {
+                    "uid": 584,
+                    "title": "mixed reality-based interaction"
+                },
+                {
+                    "uid": 620,
+                    "title": "multimodal interaction"
+                },
+                {
+                    "uid": 510,
+                    "title": "video (digital)"
+                }
+            ],
+            "events": [
+                {
+                    "uid": 3843,
+                    "title": "Intermedia Festival",
+                    "year_first": 2011,
+                    "year_last": null,
+                    "city": "Indianapolis",
+                    "country": "USA",
+                    "institution": "Donald Tavel Arts Technology Research Center, Indiana University Purdue University Indianapolis"
+                }
+            ],
+            "previews": [
+                "fileadmin/_processed_/csm_918_Screen_Shot_2018-08-27_at_12.53.27_PM_3d606993bd.webp"
+            ],
+            "index": 21,
+            "x": 448.3392692198731,
+            "y": 84.32082376824154,
+            "z": 236.65765367922563,
+            "vx": -0.2276978242262419,
+            "vy": 0.7100300744402336,
+            "vz": 1.210926204488287
+        },
+        {
+            "uid": 4449,
+            "title": "SOMEONE",
+            "url": "https://lauren-mccarthy.com/SOMEONE",
+            "comment": "",
+            "year_first": 2019,
+            "year_last": 2021,
+            "artist": {
+                "uid": 1415,
+                "first_name": "Lauren Lee",
+                "last_name": "McCarthy",
+                "pseudonym": null,
+                "location": "Los Angeles, USA",
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 664,
+                    "title": "performative"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 532,
+                    "title": "performative installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 762,
+                    "title": "agency"
+                },
+                {
+                    "uid": 225,
+                    "title": "artificial life"
+                },
+                {
+                    "uid": 1361,
+                    "title": "interactive media"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_9560_interface-01_416f7482b8.webp",
+                "fileadmin/_processed_/csm_6632_IMG_8059_680f753adf.webp",
+                "fileadmin/_processed_/csm_8751__SP_6172-large_e183fed1b6.webp",
+                "fileadmin/_processed_/csm_3682__SP_6180-large_b42edff387.webp"
+            ],
+            "index": 22,
+            "x": 435.430564308515,
+            "y": 136.74148281633583,
+            "z": 226.9541114273678,
+            "vx": 0.4627829202129603,
+            "vy": 0.8848682844760859,
+            "vz": 0.7571035058869041
+        },
+        {
+            "uid": 4521,
+            "title": "Electronic Cafe Network",
+            "url": "http://www.ecafe.com/1984.html",
+            "comment": "",
+            "year_first": 1984,
+            "year_last": 1988,
+            "artist": {
+                "uid": 325,
+                "first_name": "Sherrie Rabinowitz /",
+                "last_name": "Kit Galloway",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 1353,
+                    "title": "video (analog)"
+                },
+                {
+                    "uid": 180,
+                    "title": "mice (input device)"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 814,
+                    "title": "Society and Culture"
+                },
+                {
+                    "uid": 808,
+                    "title": "Media and Communication"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 529,
+                    "title": "performance art"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 670,
+                    "title": "site-specific"
+                },
+                {
+                    "uid": 661,
+                    "title": "networked"
+                },
+                {
+                    "uid": 569,
+                    "title": "art interventions"
+                },
+                {
+                    "uid": 1367,
+                    "title": "intermedial"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 1333,
+                    "title": "collaborative"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_2546_Electronic_Cafe_Network_3cd7fd0c04.webp",
+                "fileadmin/_processed_/csm_5457_ECN2_c00401ab4d.webp",
+                "fileadmin/_processed_/csm_3321_ECN_map_9d0765cefc.webp"
+            ],
+            "index": 23,
+            "x": 380.5250718121409,
+            "y": 167.0880415463665,
+            "z": 204.47002468398915,
+            "vx": 0.8051842513438575,
+            "vy": 0.7838979191611969,
+            "vz": 0.3783586580046746
+        },
+        {
+            "uid": 4525,
+            "title": "Hole-in-Space",
+            "url": "https://www.youtube.com/watch?v=SyIJJr6Ldg8",
+            "comment": "",
+            "year_first": 1980,
+            "year_last": 1980,
+            "artist": {
+                "uid": 325,
+                "first_name": "Sherrie Rabinowitz /",
+                "last_name": "Kit Galloway",
+                "pseudonym": null,
+                "location": null,
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 683,
+                    "title": "immersive"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 355,
+                    "title": "multi-user"
+                },
+                {
+                    "uid": 661,
+                    "title": "networked"
+                },
+                {
+                    "uid": 500,
+                    "title": "real-time"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 633,
+                    "title": "time-based"
+                },
+                {
+                    "uid": 903,
+                    "title": "uncanny"
+                },
+                {
+                    "uid": 635,
+                    "title": "virtual"
+                },
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 808,
+                    "title": "Media and Communication"
+                },
+                {
+                    "uid": 814,
+                    "title": "Society and Culture"
+                },
+                {
+                    "uid": 916,
+                    "title": "Technology and Innovation"
+                },
+                {
+                    "uid": 1354,
+                    "title": "electronic displays"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                }
+            ],
+            "events": [],
+            "previews": [
+                "fileadmin/_processed_/csm_6945_A_Whole_in_Space_1980_985037b525.webp"
+            ],
+            "index": 24,
+            "x": 306.9348246626255,
+            "y": 179.06944340893668,
+            "z": 171.6334368847977,
+            "vx": 1.0342683715317642,
+            "vy": 0.4883266460067783,
+            "vz": 0.12524519222123812
+        },
+        {
+            "uid": 4526,
+            "title": "Museum for Insects",
+            "url": "https://hypernatural.com/museum/",
+            "comment": "",
+            "year_first": 2013,
+            "year_last": 2017,
+            "artist": {
+                "uid": 343,
+                "first_name": "Amy",
+                "last_name": "Youngs",
+                "pseudonym": null,
+                "location": "Columbus, OH",
+                "birthyear": null
+            },
+            "keywords": [
+                {
+                    "uid": 1336,
+                    "title": "anthropomorph"
+                },
+                {
+                    "uid": 654,
+                    "title": "interactive"
+                },
+                {
+                    "uid": 661,
+                    "title": "networked"
+                },
+                {
+                    "uid": 665,
+                    "title": "polysensory"
+                },
+                {
+                    "uid": 688,
+                    "title": "sculptural"
+                },
+                {
+                    "uid": 632,
+                    "title": "telematic"
+                },
+                {
+                    "uid": 1273,
+                    "title": "three-dimensional"
+                },
+                {
+                    "uid": 524,
+                    "title": "bioart"
+                },
+                {
+                    "uid": 568,
+                    "title": "installations"
+                },
+                {
+                    "uid": 164,
+                    "title": "interactive installations"
+                },
+                {
+                    "uid": 258,
+                    "title": "telematic art"
+                },
+                {
+                    "uid": 809,
+                    "title": "Nature and Environment"
+                },
+                {
+                    "uid": 267,
+                    "title": "animals"
+                },
+                {
+                    "uid": 1339,
+                    "title": "anthropocentrism"
+                },
+                {
+                    "uid": 230,
+                    "title": "Nature"
+                },
+                {
+                    "uid": 1222,
+                    "title": "otherness"
+                },
+                {
+                    "uid": 505,
+                    "title": "voyeurism"
+                },
+                {
+                    "uid": 527,
+                    "title": "cybernetics"
+                },
+                {
+                    "uid": 960,
+                    "title": "nonhuman communication"
+                },
+                {
+                    "uid": 1302,
+                    "title": "telematics"
+                },
+                {
+                    "uid": 1304,
+                    "title": "telepresence"
+                },
+                {
+                    "uid": 1352,
+                    "title": "hardware"
+                },
+                {
+                    "uid": 339,
+                    "title": "cameras"
+                },
+                {
+                    "uid": 180,
+                    "title": "mice (input device)"
+                },
+                {
+                    "uid": 612,
+                    "title": "mobile devices"
+                },
+                {
+                    "uid": 341,
+                    "title": "webcams"
+                },
+                {
+                    "uid": 157,
+                    "title": "interfaces"
+                },
+                {
+                    "uid": 178,
+                    "title": "camera recordings"
+                },
+                {
+                    "uid": 1361,
+                    "title": "interactive media"
+                },
+                {
+                    "uid": 583,
+                    "title": "internet of things (IoT)"
+                }
+            ],
+            "events": [],
+            "previews": {
+                "0": "fileadmin/_processed_/csm_8213_Museum-for-insects-fisheye-view-of-telepresent-animal_160cdab137.webp",
+                "2": "fileadmin/_processed_/csm_7834_Museum_for_Insects_documentation_dbdd66b63d.webp"
+            },
+            "index": 25,
+            "x": 218.12331290312082,
+            "y": 178.97349170628797,
+            "z": 124.93559970423061,
+            "vx": 1.2728750112014318,
+            "vy": 0.10675942284580768,
+            "vz": -0.029133648051825077
+        }
+    ],
+    "links": [
+        {
+            "source": 86,
+            "target": 105,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 105,
+            "target": 171,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 171,
+            "target": 199,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 199,
+            "target": 394,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 394,
+            "target": 396,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 396,
+            "target": 418,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 418,
+            "target": 556,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 556,
+            "target": 977,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 977,
+            "target": 979,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 979,
+            "target": 980,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 980,
+            "target": 1030,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 1030,
+            "target": 2132,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 2132,
+            "target": 2720,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 2720,
+            "target": 3866,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 3866,
+            "target": 3872,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 3872,
+            "target": 4012,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4012,
+            "target": 4079,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4079,
+            "target": 4107,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4107,
+            "target": 4109,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4109,
+            "target": 4110,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4110,
+            "target": 4111,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4111,
+            "target": 4449,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4449,
+            "target": 4521,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4521,
+            "target": 4525,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 4525,
+            "target": 4526,
+            "color": "#b06e0d"
+        },
+        {
+            "source": 86,
+            "target": 394,
+            "color": "#78b067"
+        },
+        {
+            "source": 394,
+            "target": 977,
+            "color": "#78b067"
+        },
+        {
+            "source": 977,
+            "target": 979,
+            "color": "#78b067"
+        },
+        {
+            "source": 979,
+            "target": 3866,
+            "color": "#78b067"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "collectionsLimit": 20,
+        "artworksInCollectionsLimit": 50,
+        "filterChainsLimit": 10,
+        "keywordsInFilterChainsLimit": 5,
+        "faucetsColors": {
+            "1": "#ef8223",
+            "23": "#abdde5",
+            "159": "#e497e1",
+            "166": "#e25b67"
+        }
+    }
+]
