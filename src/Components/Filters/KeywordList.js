@@ -86,11 +86,6 @@ export const KeywordList = ({
                             filterContext.filterState.filterChains.length > 0
                               ? [
                                   {
-                                    title: "Create new Filterchain",
-                                    command: handleCreateFilterChain,
-                                    parameters: [[keyword]],
-                                  },
-                                  {
                                     title: "Add to Filterchain",
                                     command: null,
                                     subitems:
@@ -106,6 +101,11 @@ export const KeywordList = ({
                                           };
                                         }
                                       ),
+                                  },
+                                  {
+                                    title: "Create new Filterchain",
+                                    command: handleCreateFilterChain,
+                                    parameters: [[keyword]],
                                   },
                                 ]
                               : [

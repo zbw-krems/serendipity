@@ -54,37 +54,45 @@ export const KeywordChildrenExpander = ({
                     filterContext.filterState.filterChains.length > 0
                       ? [
                           {
+                            title: "Add to Filterchain",
+                            command: null,
+                            subitems:
+                              filterContext.filterState.filterChains.map(
+                                (otherFilterChain) => {
+                                  return {
+                                    title: otherFilterChain.title,
+                                    command: handleAddToFilterChain,
+                                    parameters: [
+                                      parentKeyword,
+                                      otherFilterChain,
+                                    ],
+                                  };
+                                }
+                              ),
+                          },
+                          {
                             title: "Create new Filterchain",
                             command: handleCreateFilterChain,
                             parameters: [[parentKeyword]],
-                          },
-                          {
-                            title: "Add to Filterchain",
-                            command: null,
-                            subitems: filterContext.filterState.filterChains.map(
-                              (otherFilterChain) => {
-                                return {
-                                  title: otherFilterChain.title,
-                                  command: handleAddToFilterChain,
-                                  parameters: [parentKeyword, otherFilterChain],
-                                };
-                              }
-                            ),
                           },
                         ]
                       : [
                           {
                             title: "Add to Filterchain",
                             command: null,
-                            subitems: filterContext.filterState.filterChains.map(
-                              (otherFilterChain) => {
-                                return {
-                                  title: otherFilterChain.title,
-                                  command: handleAddToFilterChain,
-                                  parameters: [parentKeyword, otherFilterChain],
-                                };
-                              }
-                            ),
+                            subitems:
+                              filterContext.filterState.filterChains.map(
+                                (otherFilterChain) => {
+                                  return {
+                                    title: otherFilterChain.title,
+                                    command: handleAddToFilterChain,
+                                    parameters: [
+                                      parentKeyword,
+                                      otherFilterChain,
+                                    ],
+                                  };
+                                }
+                              ),
                           },
                         ]
                   }
