@@ -52,7 +52,7 @@ function App() {
         },
       ];
       // console.log(artworkData);
-      collectionsFromApi.collections.map((collection) => {
+      collectionsFromApi.collection.map((collection) => {
         // console.log(collection);
         collections.push({
           uid: collection.uuid,
