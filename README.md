@@ -19,7 +19,29 @@ Since Serendipity was developed within a project with limited timespan, we decid
 
 #### Possible Todos/Ideas/Fixes
 
-- [ ] Todo 1
+- [ ] Refactor GraphContext to store artworks separate for each filterchain
+- [ ] Find a better solution than Prop Drilling.
+
+##### FilterChains
+
+- [ ] Make Filterchains display number of artwork result (Refactor needed)
+- [ ] Filter by Years/Artists/Events
+
+##### Collections
+
+##### Graph
+
+- [ ] Switch to Textmode in Universe (Titles floating around)
+- [ ] Make keywords visible in room and add them to Filterchain
+- [ ] Create more Algorithms
+- [ ] Performance Improvement for Algorithm 2.
+
+
+##### Feature Ideas
+
+- [ ] Presentation/Exhibition Mode with shareable link
+- [ ] Dark Mode
+- [ ] 
 
 ## How to Serendipity
 

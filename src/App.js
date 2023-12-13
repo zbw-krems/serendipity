@@ -18,10 +18,12 @@ function App() {
       let [artworkData, tagData, collectionsFromApi, favouritesFromApi] =
         await Promise.all([
           await fetch(
-            "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Artworks"
+            // "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Artworks"
+            document.getElementById("root-data").dataset["vzArtworksUrl"]
           ).then((res) => res.json()),
           await fetch(
-            "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Keywords"
+            // "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Keywords"
+            document.getElementById("root-data").dataset["vzKeywordsUrl"]
           ).then((res) => res.json()),
           await fetch(getAdaCollectionsApi(), getXSpecialHeader()).then((res) =>
             res.json()
@@ -87,9 +89,17 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
-      <Serendipity />
-    </div>
+    <>
+      <div
+        id="root-data"
+        data-vz-artworks-url="/index.php?id=31&tx_vaviz_pi2[controller]=Artworks"
+        data-vz-keywords-url="/index.php?id=31&tx_vaviz_pi2[controller]=Keywords"
+      ></div>
+       
+      <div className="App">
+        <Serendipity />
+      </div>
+    </>
   );
 }
 

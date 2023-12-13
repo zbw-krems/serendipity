@@ -112,12 +112,12 @@ export const FilterChain = ({
           )}
           ({filterChain.keywords.length}/{KEYWORDSINFILTERCHAINSLIMIT})
         </h5>
-        <p>
+        {/* <p>
           <i className="text-white small">
             {graphContext.graphState.graphData.nodes.length + " "}
             Artworks
           </i>
-        </p>
+        </p> */}
 
         {!filterChain.keywords.length && (
           <small className="text-muted">No Keywords in Filter yet</small>
