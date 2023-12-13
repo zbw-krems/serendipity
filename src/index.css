@@ -260,7 +260,7 @@ ul {
 }
 
 .filterChainScroll {
-  max-height: 200px;
+  height: 100px;
   overflow-y: scroll;
 }
 
