@@ -1,6 +1,6 @@
 {
-  "name": "serendipity-test",
-  "version": "0.1.0",
+  "name": "serendipity",
+  "version": "0.3.1",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",

@@ -97,7 +97,7 @@ export const FilterChain = ({
             <input
               type="text"
               ref={TextRef}
-              value={filterChain.title}
+              defaultValue={filterChain.title}
               className="renameInput"
             />
             <button type="submit" className="renameSubmitButton">
