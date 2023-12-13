@@ -1,20 +1,22 @@
 // * VARIABLES
 
 //
-// const baseUrl = "https://dev.digitalartsarchive.at/";
-const baseUrl = "/";
+const baseUrl = "https://dev.digitalartsarchive.at/";
+// const baseUrl = "/";
 
 // Workaround for CORS, run local Proxy Server
 // const baseUrl = "http://localhost:3011/";
 
-const adaCollectionsApi = `${baseUrl}index.php?id=169&controller=Collections&select=collection`;
+// const adaCollectionsApi = `${baseUrl}index.php?id=169&controller=Collections&select=collection`;
+const adaCollectionsApi =
+  document.getElementById("root").dataset["vzCollectionsApi"];
 
 let specialHeader = new Headers();
 
-specialHeader.append(
-  "X-Special-Auth",
-  "test-auth-hash-c0df086e-b363-4626-a2cc-9bb6e3048180"
-);
+// specialHeader.append(
+//   "X-Special-Auth",
+//   "test-auth-hash-c0df086e-b363-4626-a2cc-9bb6e3048180"
+// );
 specialHeader.append("accept", "application/json");
 specialHeader.append("Content-Type", "application/json");
 

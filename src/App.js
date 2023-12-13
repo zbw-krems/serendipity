@@ -18,19 +18,21 @@ function App() {
       let [artworkData, tagData, collectionsFromApi, favouritesFromApi] =
         await Promise.all([
           await fetch(
-            // "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Artworks"
-            document.getElementById("root-data").dataset["vzArtworksUrl"]
+            // "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Artworks",
+            document.getElementById("root").dataset["vzArtworksUrl"],
+            { credentials: "same-origin" }
           ).then((res) => res.json()),
           await fetch(
-            // "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Keywords"
-            document.getElementById("root-data").dataset["vzKeywordsUrl"]
+            // "https://dev.digitalartsarchive.at/index.php?id=31&tx_vaviz_pi2[controller]=Keywords",
+            document.getElementById("root").dataset["vzKeywordsUrl"],
+            { credentials: "same-origin" }
           ).then((res) => res.json()),
-          await fetch(getAdaCollectionsApi(), getXSpecialHeader()).then((res) =>
-            res.json()
-          ),
-          await fetch(getAdaFavouritesApi(), getXSpecialHeader()).then((res) =>
-            res.json()
-          ),
+          await fetch(getAdaCollectionsApi(), getXSpecialHeader(), {
+            credentials: "same-origin",
+          }).then((res) => res.json()),
+          await fetch(getAdaFavouritesApi(), getXSpecialHeader(), {
+            credentials: "same-origin",
+          }).then((res) => res.json()),
         ]);
       // console.log("FAVUUUs", collectionsFromApi);
       let collections = [
@@ -89,17 +91,9 @@ function App() {
   }, []);
 
   return (
-    <>
-      <div
-        id="root-data"
-        data-vz-artworks-url="/index.php?id=31&tx_vaviz_pi2[controller]=Artworks"
-        data-vz-keywords-url="/index.php?id=31&tx_vaviz_pi2[controller]=Keywords"
-      ></div>
-       
-      <div className="App">
-        <Serendipity />
-      </div>
-    </>
+    <div className="App">
+      <Serendipity />
+    </div>
   );
 }
 
