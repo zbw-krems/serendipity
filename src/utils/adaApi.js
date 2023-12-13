@@ -1,7 +1,7 @@
 // * VARIABLES
 
 //
-const baseUrl = "https://dev.digitalartsarchive.at/";
+// const baseUrl = "https://dev.digitalartsarchive.at/";
 // const baseUrl = "/";
 
 // Workaround for CORS, run local Proxy Server
