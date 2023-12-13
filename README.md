@@ -121,8 +121,8 @@ Serendipity was developed within the project **“Tool Development for Image Dat
 
 ### Project team
 
-- Fabian Schober (@schobernoise) - Serendipity Main Developer
-- Paolo Schmidt (@agentcole) - Mirador Main Developer
+- Fabian Schober ([@schobernoise](https://github.com/schobernoise)) - Serendipity Main Developer
+- Paolo Schmidt ([@agentcole](https://github.com/agentcole)) - Mirador Main Developer
 - Alexander Wöran - Serendipity Concept and Research
 - Laura Ettel - Serendipity Concept and Research
 - Isabella Iskra - Scientific Researcher
@@ -132,6 +132,6 @@ Serendipity was developed within the project **“Tool Development for Image Dat
 - Dr. Viola Rühse, M.A. (from July 2022 until December 2023)
 ### Technical Advisors
 
-- Jan Victor Schuster (@jan-victor)
-- Michael Perl (@mrthnkwn)
-- Max Resch (@mxre)
+- Jan Victor Schuster ([@jan-victor](https://github.com/jan-victor))
+- Michael Perl ([@mrthnkwn](https://github.com/mrthnkwn))
+- Max Resch ([@mxre](https://github.com/mxre))
