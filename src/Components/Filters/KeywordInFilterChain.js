@@ -85,7 +85,7 @@ export const KeywordInFilterChain = ({
               filterObjectsByKeywords(
                 dataContext.dataState.allArtworks,
                 filterChain
-              ).map((artwork) => artwork.uid),
+              ),
               filterChain.title,
             ],
           },

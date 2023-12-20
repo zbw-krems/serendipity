@@ -10,7 +10,7 @@ export const ArtworkInCollection = ({
   handleMoveToUserCollection,
   handleDeleteArtworkFromCollection,
 }) => {
-  // console.log("ARTWORK", artwork);
+  console.log("ARTWORK", artwork);
 
   return (
     <>

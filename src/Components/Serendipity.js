@@ -53,45 +53,70 @@ const Serendipity = () => {
     return () => clearTimeout(timeoutId);
   };
 
+  // * MANAGING USER COLLECTIONS FUNCTIONS
+  //  * For local testing purposes just comment put the api-calls, and comment in the Datadispatch stuff
+
   const handleCreateUserCollection = useCallback(
     async (artworks = null, title = null) => {
       // console.log(dataContext.dataState.userCollections);
 
       const state = dataContext.dataState.userCollections;
       if (state.length < COLLECTIONSLIMIT) {
-        await createCollectionAPI(
-          title ? title : "Collection " + state.length.toString(),
-          artworks ? artworks : []
-        ).then((response) => {
-          let newUserCollection = {
-            uid: response.uuid,
-            title: response.title,
-            artworks: dataContext.dataState.allArtworks.filter((obj) =>
-              response.collection.includes(obj.uid)
-            ),
-            color: getRandomColor(),
-          };
-          state.push(newUserCollection);
-          dataContext.dataDispatch({
-            type: "addUserCollection",
-            payload: state,
-          });
+        // ************************************************
+        // await createCollectionAPI(
+        //   title ? title : "Collection " + state.length.toString(),
+        //   artworks ? artworks : []
+        // ).then((response) => {
+        //   let newUserCollection = {
+        //     uid: response.uuid,
+        //     title: response.title,
+        //     artworks: dataContext.dataState.allArtworks.filter((obj) =>
+        //       response.collection.includes(obj.uid)
+        //     ),
+        //     color: getRandomColor(),
+        //   };
+        //   state.push(newUserCollection);
+        //   dataContext.dataDispatch({
+        //     type: "addUserCollection",
+        //     payload: state,
+        //   });
+        // });
+        // ************************************************
+        let newUserCollection = {
+          uid: state.length,
+          title: title ? title : "Collection " + state.length.toString(),
+          artworks: artworks ? [...artworks] : [],
+          color: getRandomColor(),
+        };
+        state.push(newUserCollection);
+        dataContext.dataDispatch({
+          type: "addUserCollection",
+          payload: state,
         });
+        // ****************************************
       }
     }
   );
 
   const handleDeleteUserCollection = useCallback(async (collectionUid) => {
     let state = dataContext.dataState.userCollections;
+    // ************************************************
+    // await deleteCollectionAPI(collectionUid).then((response) => {
+    //   state = removeObjectByUID(state, collectionUid);
 
-    await deleteCollectionAPI(collectionUid).then((response) => {
-      state = removeObjectByUID(state, collectionUid);
+    //   dataContext.dataDispatch({
+    //     type: "removeUserCollection",
+    //     payload: state,
+    //   });
+    // });
+    // ************************************************
+    state = removeObjectByUID(state, collectionUid);
 
-      dataContext.dataDispatch({
-        type: "removeUserCollection",
-        payload: state,
-      });
+    dataContext.dataDispatch({
+      type: "removeUserCollection",
+      payload: state,
     });
+    // ************************************************
   });
 
   const handleEditCollectionTitle = useCallback(
@@ -101,24 +126,31 @@ const Serendipity = () => {
       if (collection.title != TextRef.current.value) {
         const state = dataContext.dataState.userCollections;
         collection.title = TextRef.current.value;
-        await changeTitleCollectionAPI(
-          collection.uid,
-          TextRef.current.value
-        ).then((response) => {
-          dataContext.dataDispatch({
-            type: "renameCollectionTitle",
-            payload: replaceObjectByUID(state, collection.uid, collection),
-          });
+        // ************************************************
+        // await changeTitleCollectionAPI(
+        //   collection.uid,
+        //   TextRef.current.value
+        // ).then((response) => {
+        //   dataContext.dataDispatch({
+        //     type: "renameCollectionTitle",
+        //     payload: replaceObjectByUID(state, collection.uid, collection),
+        //   });
+        // });
+        // ************************************************
+        dataContext.dataDispatch({
+          type: "renameCollectionTitle",
+          payload: replaceObjectByUID(state, collection.uid, collection),
         });
       }
       setIsEditing(false);
+      // ************************************************
     }
   );
 
   const handleDeleteArtworkFromCollection = useCallback(
     async (artwork, collectionUid = 0) => {
       const state = dataContext.dataState.userCollections;
-
+      // ************************************************
       await deleteFromCollectionAPI(collectionUid, [artwork.uid]).then(
         (response) => {
           const collectionToRemoveArtworkFrom = state.find(
@@ -140,6 +172,18 @@ const Serendipity = () => {
           });
         }
       );
+      // ************************************************
+      // const collectionToRemoveArtworkFrom = state.find(
+      //   (obj) => obj.uid === collectionUid
+      // );
+      // removeObjectByUID(collectionToRemoveArtworkFrom.artworks, artwork.uid);
+      // replaceObjectByUID(state, collectionUid, collectionToRemoveArtworkFrom);
+
+      // dataContext.dataDispatch({
+      //   type: "removeArtworkFromUserCollections",
+      //   payload: state,
+      // });
+      // ************************************************
     }
   );
 
@@ -152,7 +196,8 @@ const Serendipity = () => {
         state.find((collection) => collection.uid == collectionUuid).artworks
           .length < ARTWORKSINCOLLECTIONLIMIT
       ) {
-        // console.log(findObjectByUID(state, collectionUuid.toString()));
+        // ************************************************
+        console.log(findObjectByUID(state, collectionUuid.toString()));
         await addToCollectionAPI(collectionUuid, extractUids(artworks)).then(
           (response) => {
             if (
@@ -175,6 +220,26 @@ const Serendipity = () => {
             }
           }
         );
+        // ************************************************
+        // if (
+        //   !doesArrayContainMatchingUid(
+        //     findObjectByUID(state, collectionUuid.toString()).artworks,
+        //     artworks
+        //   )
+        // ) {
+        //   state
+        //     .find((collection) => collection.uid === collectionUuid)
+        //     .artworks.push(...artworks);
+        //   dataContext.dataDispatch({
+        //     type: "addArtworkToUserCollections",
+        //     payload: state,
+        //   });
+        // } else {
+        //   console.warn("Already in Collection");
+
+        //   return;
+        // }
+        // ************************************************
       }
     }
   );
@@ -183,6 +248,7 @@ const Serendipity = () => {
     async (artwork, oldCollection, newCollection) => {
       // console.log(artwork, oldCollection, newCollection);
       const state = dataContext.dataState.userCollections;
+      // ************************************************
       await Promise.all([
         await addToCollectionAPI(newCollection.uid, [artwork.uid]),
         await deleteFromCollectionAPI(oldCollection.uid, [artwork.uid]),
@@ -198,6 +264,18 @@ const Serendipity = () => {
           payload: state,
         });
       });
+      // ************************************************
+      // removeObjectByUID(oldCollection.artworks, artwork.uid);
+      // replaceObjectByUID(state, oldCollection.uid, oldCollection);
+      // state
+      //   .find((collection) => collection.uid === newCollection.uid)
+      //   .artworks.push(artwork);
+
+      // dataContext.dataDispatch({
+      //   type: "removeArtworkFromUserCollections",
+      //   payload: state,
+      // });
+      // ************************************************
     }
   );
 
@@ -205,6 +283,7 @@ const Serendipity = () => {
     async (artwork, newCollection) => {
       // console.log(artwork, oldCollection, newCollection);
       const state = dataContext.dataState.userCollections;
+      // ************************************************
       await addToCollectionAPI(newCollection.uid, [artwork.uid]).then(
         (response) => {
           state
@@ -217,6 +296,16 @@ const Serendipity = () => {
           });
         }
       );
+      // ************************************************
+      // state
+      //   .find((collection) => collection.uid === newCollection.uid)
+      //   .artworks.push(artwork);
+
+      // dataContext.dataDispatch({
+      //   type: "addArtworkToUserCollections",
+      //   payload: state,
+      // });
+      // ************************************************
     }
   );
 

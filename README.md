@@ -17,31 +17,7 @@ With the current digital possibilities, we felt like there are primarily two mod
 
 Since Serendipity was developed within a project with limited timespan, we decided to make the code and documentation freely available as a repository on Github. Our hopes are that other institutions and initiatives with large image collections use the tool for their needs and continue to develop the application further. 
 
-#### Possible Todos/Ideas/Fixes
-
-- [ ] Refactor GraphContext to store artworks separate for each filterchain
-- [ ] Find a better solution than Prop Drilling.
-
-##### FilterChains
-
-- [ ] Make Filterchains display number of artwork result (Refactor needed)
-- [ ] Filter by Years/Artists/Events
-
-##### Collections
-
-##### Graph
-
-- [ ] Switch to Textmode in Universe (Titles floating around)
-- [ ] Make keywords visible in room and add them to Filterchain
-- [ ] Create more Algorithms
-- [ ] Performance Improvement for Algorithm 2.
-
-
-##### Feature Ideas
-
-- [ ] Presentation/Exhibition Mode with shareable link
-- [ ] Dark Mode
-- [ ] 
+See the Developer Notes.
 
 ## How to Serendipity
 
@@ -136,6 +112,41 @@ Export collection to the Mnemosyne viewer for further analysis
 ![](public/assets/59cc2da5878139b6fffab293363aa43a.png)
 
 
+## Developer Notes
+
+This Application has been developed to work with the Archive of Digital Art (ADA). You won't be able to use the API as it is used in the code, 
+but you can adjust the API-Calls to suit your needs. In Serendipity.js the parts of the functions to comment out are highlighted, to run everything locally without problems.
+
+#### Possible Todos/Ideas/Fixes
+
+- [ ] Refactor GraphContext to store artworks separate for each filterchain in a Dictionary
+- [ ] Find a better solution than Prop Drilling.
+- [ ] Refactor everything into Typescript.
+
+##### Keywordlist/FilterChains
+
+- [ ] Make Filterchains display number of artwork result (Refactor needed)
+- [ ] Filter by Years/Artists/Events
+- [ ] Implement Search Bar for Keyword List.
+
+##### Collections
+
+##### Graph
+
+- [ ] Switch to Textmode in Universe (Titles floating around)
+- [ ] Make keywords visible in room and add them to Filterchain
+- [ ] Create more Algorithms
+- [ ] Performance Improvement for Algorithm 2.
+- [ ] Highlight Used Keywords in Info-Viewer.
+
+
+##### Feature Ideas
+
+- [ ] Presentation/Exhibition Mode with shareable link
+- [ ] Dark Mode
+
+
+
 ## Credits
 
 Serendipity was developed within the project **“Tool Development for Image Data Literacy: Understanding Digital Art with complex data analysis”**, which was funded by the state of Lower Austria as part of the RTI strategy and the EFRE program.
@@ -148,10 +159,14 @@ Serendipity was developed within the project **“Tool Development for Image Dat
 - Alexander Wöran - Serendipity Concept and Research
 - Laura Ettel - Serendipity Concept and Research
 - Isabella Iskra - Scientific Researcher
+
+
 ### Project leads
 
 - Prof. Dr. habil. Dr. hc Oliver Grau, MAE (until June 2022)
 - Dr. Viola Rühse, M.A. (from July 2022 until December 2023)
+
+
 ### Technical Advisors
 
 - Jan Victor Schuster ([@jan-victor](https://github.com/jan-victor))

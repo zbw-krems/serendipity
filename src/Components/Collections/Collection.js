@@ -100,8 +100,9 @@ export const Collection = ({
               key={`button-${collectionKey}`}
             >
               <LightTooltip title="Export to Mirador">
-                <a href={`mirador/#mode=collection&${collection.uid}`}></a>
-                <ExitToAppIcon />
+                <a href={`mirador/#mode=collection&id=${collection.uid}`}>
+                  <ExitToAppIcon className="text-white" />
+                </a>
               </LightTooltip>
             </button>
           </div>

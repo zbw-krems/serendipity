@@ -95,12 +95,23 @@ function filterArtworksAndKeywords(artworks, filterChains) {
   return { filteredArtworks, includedKeywords, filterChains };
 }
 
+// ! Removed Function
+// const createConsecutiveLinks = (inputArr, color) => {
+//   return inputArr.slice(0, -1).map((currentObject, index) => {
+//     const source = currentObject.uid;
+//     const target = inputArr[index + 1].uid;
+//     return { source: source, target: target, color: color };
+//   });
+// };
+
 const createConsecutiveLinks = (inputArr, color) => {
-  return inputArr.slice(0, -1).map((currentObject, index) => {
-    const source = currentObject.uid;
-    const target = inputArr[index + 1].uid;
-    return { source: source, target: target, color: color };
-  });
+  const links = [];
+  for (let i = 0; i < inputArr.length - 1; i++) {
+    const source = inputArr[i].uid;
+    const target = inputArr[i + 1].uid;
+    links.push({ source: source, target: target, color: color });
+  }
+  return links;
 };
 
 function generateGraphData(artworks, filterChains, algorithmType) {
