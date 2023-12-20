@@ -1,7 +1,7 @@
 // * VARIABLES
 
 //
-const baseUrl = "https://dev.digitalartsarchive.at/";
+const baseUrl = document.getElementById("root").dataset["vzImageDomain"];
 // const baseUrl = "/";
 
 // Workaround for CORS, run local Proxy Server
